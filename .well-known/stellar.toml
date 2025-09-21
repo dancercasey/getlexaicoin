@@ -16,3 +16,6 @@ display_decimals = 2
 name = "LEX Coin"
 desc = "Deflationary token issued on Stellar. Supply capped at 50B. No inflation."
 image = "https://getlexaicoin.com/lex.png"
+
+[[ACCOUNTS]]
+address = "GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB"
