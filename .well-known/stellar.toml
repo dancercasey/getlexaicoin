@@ -11,7 +11,7 @@ ORG_EMAIL="keir1@hvc.rr.com"
 
 [[CURRENCIES]]
 code="LEX"
-issuer="GBARTKDSGDQXNPY5XFJEACSNKRF7OU67A4O5IMHJUBJPZSC6ROM45LQ7"
+issuer = "GBUGRKYZANCEADQ2P46LZQBOBNQVHSF2CYA3LROXJEJAS6ENVIF2EJED"
 display_decimals=2
 name="Lex AI Coin"
 desc="A token for AI-driven financial ecosystems"
