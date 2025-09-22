@@ -27,6 +27,18 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+---
+## 🔐 Governance Status
+
+- Issuer wallet holds **zero LEX**
+- All 50 billion tokens have been issued and distributed
+- No further issuance is possible under current governance
+- `AUTH_REQUIRED` is disabled to allow open trustline access
+- Issuer wallet remains unlocked to preserve flexibility, but supply is fixed
+- Asset visibility confirmed via TOML, DNS, and StellarExpert
+
+---
+
 ## 🌐 Domain Verification
 
 LEX Coin is verified via our published `stellar.toml` file: 
