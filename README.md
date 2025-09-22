@@ -5,15 +5,20 @@
 
 ---
 
-## 🔗 Token Overview
+## 🪙 Token Overview
+
+Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered for transparency, auditability, and long-term credibility.
 
 - **Asset Code**: `LEX`
+- **Issuer Address**: `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`
+- **Total Supply**: 50,000,000,000 LEX (Fixed)
+- **Inflation**: None
+- **Reissuance**: Disabled
+- **Home Domain**: [`getlexaicoin.com`](https://getlexaicoin.com)
+- **TOML File**: [`getlexaicoin.com/.well-known/stellar.toml`](https://getlexaicoin.com/.well-known/stellar.toml)
 
-- **Issuer Address**: `GBUGRKYZANCEADQ2P46LZQBOBNQVHSF2CYA3LROXJEJAS6ENVIF2EJED`  
-  This wallet was used to issue the full supply of LEX Coin.  
-  ✅ Supply capped at 50 billion  
-  ✅ Issuer wallet disabled and set to zero  
-  ✅ No further tokens will ever be minted
+> Legacy issuer `GBUG...EJED` has been retired. Trustline removed via [tx hash](https://stellar.expert/explorer/public/tx/19390c00a85b770ff7fbcf05b8919407bed3d3ecfe9396f0d629f99e18781d62).
+
 
 - **Total Supply**: 50,000,000,000 (Capped)
 - **Distribution**:
@@ -32,13 +37,13 @@ LEX Coin is verified via our published `stellar.toml` file:
 
 ## 🛒 How to Buy LEX
 
-1. Add a trustline using [Lobstr](https://lobstr.co) or [Solar](https://solarwallet.io).
-2. Visit [StellarTerm](https://stellarterm.com), search for `LEX`, and trade using XLM.
-3. Track activity on [StellarExpert](https://stellar.expert).
+1. Add a trustline to LEX using Lobstr, Freighter, or Solar
+2. Asset Code: `LEX`
+3. Issuer: `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`
+4. Trade on [StellarTerm](https://stellarterm.com) using XLM
+5. Track activity on [StellarExpert](https://stellar.expert/explorer/public/asset/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB)
 
 ---
-
-## 📜 Manifesto
 
 ## 📜 Manifesto
 
@@ -77,6 +82,45 @@ We are here to build legacy.
 
 **Welcome to LEX.**
 
+---
+
+## 📊 Tokenomics
+
+Lexaicoin (LEX) is a capped, deflationary token built on the Stellar network with a fixed supply of 50,000,000,000 LEX. No inflation. No future minting. Every token is already issued and accounted for.
+
+| Parameter               | Value                        |
+|-------------------------|------------------------------|
+| **Total Supply**        | 50,000,000,000 LEX           |
+| **Circulating Supply**  | 45,000,000,000 LEX           |
+| **Reserve Supply**      | 5,000,000,000 LEX (held for strategic release) |
+| **Inflation**           | None                         |
+| **Reissuance**          | Disabled                     |
+| **Burn Mechanism**      | Manual, on-chain, audit-tracked |
+| **Issuer Account**      | GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB |
+
+
+---
+
+## 🛣️ Roadmap
+
+Lexaicoin is built for transparency and strategic growth. Here's what’s ahead:
+
+### ✅ Completed
+- Legacy asset cleanup  
+  `tx_hash: 19390c00a85b770ff7fbcf05b8919407bed3d3ecfe9396f0d629f99e18781d62`
+- TOML and DNS validation for `getlexaicoin.com` and `lexproject.io`
+- Trustline migration to new issuer
+- GitHub Pages setup for public metadata
+
+### 🔜 In Progress
+- Telegram launch with pinned asset details
+- White paper lite and tokenomics overview
+- Asset listing submissions to StellarTerm, StellarExpert, and aggregators
+
+### 🧭 Upcoming
+- Community onboarding and wallet guides
+- Exchange outreach and liquidity pairing
+- Governance framework for future proposals
 
 ---
 
