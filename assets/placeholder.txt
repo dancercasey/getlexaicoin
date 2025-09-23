@@ -1,1 +1,0 @@
-This placeholder ensures the assets folder exists for image uploads.
