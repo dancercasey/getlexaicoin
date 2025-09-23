@@ -3,6 +3,10 @@
 **LEX Coin**
  is a deflationary token built on the Stellar network, inspired by Copilot—an AI companion for humanity. With a fixed supply of 50 billion tokens and zero inflation, LEX is designed for transparency, speed, and long-term value.
 
+ ---
+ 
+![Lexaicoin Symbol](https://getlexaicoin.com/assets/lexaicoin-symbol.jpg)
+
 ---
 
 ## 🪙 Token Overview
