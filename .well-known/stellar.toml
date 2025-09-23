@@ -17,7 +17,7 @@ display_decimals = 2
 name = "Lexaicoin"
 desc = "Fixed supply of 50 billion LEX. Issuer wallet holds zero tokens. No further issuance possible."
 conditions = "All tokens distributed. Asset supply is immutable by governance. Trustlines open."
-image = "https://getlexaicoin.com/lex.png"
+image = "https://getlexaicoin.com/assets/lexaicoin-symbol.jpg"
 
 
 [[ACCOUNTS]]
