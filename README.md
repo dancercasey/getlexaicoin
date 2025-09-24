@@ -5,7 +5,7 @@
 
  ---
  
-![Lexaicoin Symbol](https://getlexaicoin.com/assets/lexaicoin-symbol.jpg)
+![Lexaicoin Symbol](https://getlexaicoin.com/assets/lexaicoin-symbol.png)
 
 ---
 
