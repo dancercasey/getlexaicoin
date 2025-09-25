@@ -31,6 +31,21 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
   - 5B in distributor wallet (held in reserve)  - 
 
 ---
+
+## 📉 Price Distortion Incident Log
+
+- **Date**: 2025-09-25  
+- **Event**: LEX price distorted via lowball buy offer matched by Lobstr pathfinding engine.  
+- **Distorted Price**: 0.000001 XLM per LEX  
+- **Implied Valuation**: $17,500 USD for full 50B supply (XLM at $0.35 USD)  
+- **Impact**: Misrepresented LEX’s governance-grade scarcity and validator credibility  
+- **Countermeasure**: Manual trade executed at 0.01 XLM to reassert price floor  
+- **Corrected Valuation**: $175 million USD  
+- **Status**: Price floor now visible and executable on StellarTerm  
+- **Notes**: Incident logged as potential competitive suppression tactic. Offers at 0.01 XLM remain live to preserve governance integrity.
+
+---
+
 ## 🛡️ LEX50 Governance Supporters
 
 | # | Wallet Address | Trustline Date | Acquisition | Bonus Sent | Memo |
