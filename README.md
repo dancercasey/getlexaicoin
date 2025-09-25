@@ -68,7 +68,7 @@ LEX Coin is verified via our published `stellar.toml` file:
 1. Add a trustline to LEX using Lobstr, Freighter, or Solar
 2. Asset Code: `LEX`
 3. Issuer: `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`
-4. Trade on [StellarTerm](https://stellarterm.com) using XLM
+4. Trade on [StellarTerm](https://stellarterm.com/exchange/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB/XLM-native) using XLM
 5. Track activity on [StellarExpert](https://stellar.expert/explorer/public/asset/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB)
 
 ---
