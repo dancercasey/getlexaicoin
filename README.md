@@ -23,6 +23,7 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 > Legacy issuer `GBUG...EJED` has been retired. Trustline removed via [tx hash](https://stellar.expert/explorer/public/tx/19390c00a85b770ff7fbcf05b8919407bed3d3ecfe9396f0d629f99e18781d62).
 
+- ** Issuance Policy ** : While the total supply is capped at 50,000,000,000 LEX, full issuance is not guaranteed. Strategic reserves may remain unissued to preserve scarcity and governance integrity.
 
 - **Total Supply**: 50,000,000,000 (Capped)
 - **Distribution**:
