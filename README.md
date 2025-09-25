@@ -38,6 +38,11 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 | 1 | GAYPD2UYKBEO2FOI5YESEGDMUVCJZPZXXFKCRPM7D3LTJDO4333EBC4T | 2025-09-24 | 507.4099017 LEX | ✅ 500 LEX | LEX50 reward
 
 ---
+
+### 📣 LEX50 Contest Announcement  
+[Reddit Post – LEX50 Governance Launch](https://www.reddit.com/user/Confident_Speech_917/comments/1nq4vpd/lex50_contest_first_50_wallets_to_trustline/)
+
+---
 ## 🔐 Governance Status
 
 - Issuer wallet holds **zero LEX**
@@ -45,7 +50,13 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 - No further issuance is possible under current governance
 - `AUTH_REQUIRED` is disabled to allow open trustline access
 - Issuer wallet remains unlocked to preserve flexibility, but supply is fixed
-- Asset visibility confirmed via TOML, DNS, and StellarExpert
+- Asset visibility confirmed via TOML, DNS, and StellarExpert- 
+
+---
+
+### 📁 StellarTerm Directory Submission  
+Lexaicoin [LEX] is now listed in the official StellarTerm asset directory:  
+[https://github.com/stellarterm/stellarterm-directory](https://github.com/stellarterm/stellarterm-directory)
 
 ---
 
