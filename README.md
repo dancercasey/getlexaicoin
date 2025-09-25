@@ -35,12 +35,7 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 | # | Wallet Address | Trustline Date | Acquisition | Bonus Sent | Memo |
 |---|----------------|----------------|-------------|------------|------|
-| 1 | GAYPD2UYKBEO2FOI5YESEGDMUVCJZPZXXFKCRPM7D3LTJDO4333EBC4T | 2025-09-24 | 507.4099017 LEX | ✅ 500 LEX | LEX50 reward
-
----
-
-### 📣 LEX50 Contest Announcement  
-[Reddit Post – LEX50 Governance Launch](https://www.reddit.com/user/Confident_Speech_917/comments/1nq4vpd/lex50_contest_first_50_wallets_to_trustline/)
+| 1 | GAYPD2UYKBEO2FOI5YESEGDMUVCJZPZXXFKCRPM7D3LTJDO4333EBC4T | 2025-09-24 | 507.4099017 LEX | ✅ 500 LEX | /)
 
 ---
 ## 🔐 Governance Status
