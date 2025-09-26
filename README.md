@@ -57,6 +57,17 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+### SHx → XLM Swap Executed
+
+- **Platform**: StellarPort  
+- **Event**: SHx successfully swapped for XLM  
+- **Trustline**: Active  
+- **Interface**: Loader failed to render SHx, but backend processed swap  
+- **Implication**: Confirms SHx backend functionality despite frontend failure  
+- **Notes**: Reinforces LEX’s governance clarity and symbolic optics
+
+---
+
 ## 🛡️ LEX50 Governance Supporters
 
 | # | Wallet Address | Trustline Date | Acquisition | Bonus Sent | Memo |
