@@ -107,13 +107,6 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 
 ---
 
-## 🛡️ LEX50 Governance Supporters
-
-| # | Wallet Address | Trustline Date | Acquisition | Bonus Sent | Memo |
-|---|----------------|----------------|-------------|------------|------|
-| 1 | GAYPD2UYKBEO2FOI5YESEGDMUVCJZPZXXFKCRPM7D3LTJDO4333EBC4T | 2025-09-24 | 507.4099017 LEX | ✅ 500 LEX | /)
-
----
 ## 🔐 Governance Status
 
 - Issuer wallet holds **zero LEX**
