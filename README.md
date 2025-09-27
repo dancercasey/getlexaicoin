@@ -98,6 +98,15 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade optics
 
 ---
 
+## 🧪 SSLX Microdrop & Promotional Tactics
+
+Issuer wallet received unsolicited 0.01 SSLX deposit from `sslx.sl8.online`.
+Memo: “Stake tokens in Sl8 for 25%” suggests promotional intent.
+No trustline established. Asset not paired or traded on StellarTerm.
+Milestone logged to reinforce LEX’s symbolic purity and validator-grade governance.
+
+---
+
 ## 🛡️ LEX50 Governance Supporters
 
 | # | Wallet Address | Trustline Date | Acquisition | Bonus Sent | Memo |
