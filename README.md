@@ -83,6 +83,17 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+## 📭 Claimable Balance Firewall
+
+Issuer wallet received unsolicited claimable balances from speculative issuers:
+- XRPQuantum, XRPGOLD, USDOLLAR, OMIC, XinFin, BTC (trumptokens.net)
+
+No trustlines were established. No claims were made.
+Assets lack TOML metadata, governance documentation, and trading visibility.
+Milestone logged to reinforce LEX’s symbolic purity and validator-grade optics.
+
+---
+
 “Speculative assets like XRPQuantum, OMIC, and BTC from trumptokens.net exist on Stellar but lack trading visibility. No active offers, no validator-grade optics. Milestone logged for symbolic contrast with LEX’s disciplined issuance and paired liquidity.”
 
 ---
