@@ -83,6 +83,10 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+“Speculative assets like XRPQuantum, OMIC, and BTC from trumptokens.net exist on Stellar but lack trading visibility. No active offers, no validator-grade optics. Milestone logged for symbolic contrast with LEX’s disciplined issuance and paired liquidity.”
+
+---
+
 ## 🛡️ LEX50 Governance Supporters
 
 | # | Wallet Address | Trustline Date | Acquisition | Bonus Sent | Memo |
