@@ -106,7 +106,7 @@ No trustline established. Asset not paired or traded on StellarTerm.
 Milestone logged to reinforce LEX’s symbolic purity and validator-grade governance.
 2025-09-27: Returned unsolicited 0.01 SSLX to originator 
 
-GDYW6MND6EB32PNRZAMQNOTFLJOZEAFDG3DUWID7I7NRILFWJS66NOWB with memo “LEX rejects SSLX spam.” Trustline removed. Governance purity enforced.
+2025-09-27: Returned unsolicited 0.01 SSLX to originator GDYW6MND6EB32PNRZAMQNOTFLJOZEAFDG3DUWID7I7NRILFWJS66NOWB with memo “LEX rejects SSLX spam.” Trustline removed. Governance purity enforced.
 
 ---
 
