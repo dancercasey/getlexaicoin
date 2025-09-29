@@ -163,6 +163,16 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 - **Outcome:** SSLX fully purged. Wallet restored to symbolic purity.
 - **Notes:** Incident confirms claimable balance exploit and UI artifact behavior tied to spam asset presence.
 
+## Governance Milestone: SSLX Spam Asset Purge Finalized
+- **Date:** Sep 29, 2025
+- **Asset:** SSLX (Listed as “Known” in Lobstr)
+- **Symptoms:** Daily reappearance of 0.01 SSLX triggered phantom 66.0537 XLM balance. Asset reappeared briefly on mobile post-trustline removal.
+- **Actions Taken:**
+  - Trustline removed and confirmed via Stellar Expert.
+  - No user engagement with asset post-removal.
+  - Phantom XLM balance disappeared with asset purge.
+- **Outcome:** Wallet restored to symbolic purity. UI desync resolved. No recurrence observed.
+- **Notes:** Confirms spam asset exploit via claimable balance and mobile UI caching. Sets precedent for validator-grade asset hygiene.
 
 ---
 
