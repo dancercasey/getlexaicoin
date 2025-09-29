@@ -32,6 +32,18 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
+
+LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
+
+We are currently engaged in a tactical price war designed to restore symbolic clarity and protect LEX’s long-term value. When this campaign concludes, LEX’s supply will remain strategically tight, with no inflation, no dilution, and no artificial unlocks.
+
+Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience.
+
+No hype. Just legacy.
+
+---
+
 ## 📉 Price Distortion Incident Log
 
 - **Date**: 2025-09-25  
