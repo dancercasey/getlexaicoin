@@ -163,16 +163,18 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 
 🔒 Market Release Policy
 LEX Coin enforces symbolic scarcity through strategic market releases—not scheduled unlocks. No cliffs. No dilution cycles. No escrow games.
-
 No scheduled unlocks: LEX will never follow cliff or linear vesting models.
-
 Market releases only: Tokens are released based on real-time market conditions and validator optics.
-
 Scarcity preserved: Every release is sequenced to avoid flooding the market or distorting price.
 
 Governance-first optics: All releases are logged publicly for auditability and validator-grade clarity.
-
 “Unlike XRP’s monthly unlocks, LEX enforces symbolic purity through disciplined, market-aware issuance. No hype. Just legacy.”
+
+---
+
+- **Price War Active**  
+  - Date: 2025-09-29  
+  - Governance Note: Tactical optics in motion. Symbolic integrity preserved. No further details disclosed.
 
 ---
 
