@@ -76,7 +76,17 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
   - **Status**: Escalated to Bitstamp support. No resolution or TXID provided as of 2025-09-29.  
   - **Impact**: Validator-grade migration disrupted. Governance optics compromised.  
   - **Response**: Logged forensic timeline. Preserved screenshots. Awaiting formal resolution or ledger confirmation.  
-  - **Symbolic Note**: LEX governance demands accountability. Inaction logged as precedent for future asset migration safeguards.
+  - **Symbolic Note**: LEX governance demands accountability. Inaction logged as precedent for future asset
+  - migration safeguards.
+
+  ## Governance Milestone: Bitstamp Ticket Reopened
+- **Date:** Sep 29, 2025
+- **Ticket Status:** Changed from “Resolved” to “In Progress”
+- **Trigger:** Repost with updated context and unresolved issue
+- **Actions Taken:**
+  - Re-engaged support with validator-grade optics
+  - Monitoring for updated response or resolution
+- **Outcome:** Case reactivated. Awaiting final resolution.
 
 ---
 
