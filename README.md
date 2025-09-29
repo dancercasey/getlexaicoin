@@ -48,6 +48,23 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ## Governance Milestone: LEX Swap Executed Despite SHx Loader Failure
 
+Known Badge Submission
+532 XLM payment sent to LOBSTR listing address GCZCA44G7LYM2Q45EV733D2GGIVPP3L577LHEHVD27GDNW3WWGAE7YAA
+TXID: a6504bc4149e374072b4fc394f17cd322f71d605a46984a0b7256af4ad0ef87a
+Date: 2025-09-29 11:20 AM EDT
+Status: Awaiting Known badge confirmation and price visibility
+Purpose: Unlock price display and swap engine integration for LEX
+
+Bitstamp Withdrawal Failure
+Issue: 639 XLM withdrawal confirmed on Bitstamp but never received in wallet GDA3A3EC5KW6VGYNHE7SLCSXPLVQPAEQURNHY3GTFVF3BFR7MEUCPCTO
+
+TXID: [Pending—Bitstamp failed to provide]
+Date Initiated: 2025-09-26
+Status: Escalated to Bitstamp support. No resolution or TXID provided as of 2025-09-29.
+Impact: Validator-grade migration disrupted. Governance optics compromised.
+Response: Logged forensic timeline. Preserved screenshots. Awaiting formal resolution or ledger confirmation.
+Symbolic Note: LEX governance demands accountability. Inaction logged as precedent for future asset migration safeguards.
+
 🧾 Bitstamp Broadcast Failure – Badge Submission Blocker
 Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadcast. Impact: Blocked 236 USDC Known Asset badge payment for Lexaicoin [LEX]. Action Taken: – Support ticket submitted to Bitstamp with full TXIDs and forensic documentation – LOBSTR wallet confirmed: no pending payments – Badge form sequencing deferred pending resolution Governance Note: Validator-grade optics preserved. Swap engine pushes and symbolic pairings paused until badge activation.
 
