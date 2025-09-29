@@ -48,6 +48,11 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ## Governance Milestone: LEX Swap Executed Despite SHx Loader Failure
 
+🧾 Bitstamp Broadcast Failure – Badge Submission Blocker
+Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadcast. Impact: Blocked 236 USDC Known Asset badge payment for Lexaicoin [LEX]. Action Taken: – Support ticket submitted to Bitstamp with full TXIDs and forensic documentation – LOBSTR wallet confirmed: no pending payments – Badge form sequencing deferred pending resolution Governance Note: Validator-grade optics preserved. Swap engine pushes and symbolic pairings paused until badge activation.
+
+---
+
 - **Platform**: StellarPort  
 - **LEX Issuer**: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB  
 - **SHx Issuer**: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH  
