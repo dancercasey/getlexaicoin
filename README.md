@@ -280,6 +280,17 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 - **Governance Note:** Symbolic swaps propagated optics; price anchoring confirmed
 
 ---
+## Systemic Visibility Suppression for New Assets
+
+- **Date:** 2025-09-30
+- **Observation:** Lobstr mobile app suppresses visibility and swap functionality for newly issued assets, including LEX
+- **Cause:** Backend indexing lag, stale asset registry, and Known badge filtering
+- **Impact:** Users unable to trade or swap without reinstalling app or executing symbolic swaps
+- **LEX Case Study:** Swap UI failed until reinstall; offers and trustline were active but hidden
+- **Implication:** Other new assets likely affected; systemic optics failure confirmed
+- **Next Step:** Document LEX case as precedent; recommend governance escalation for asset indexing reform
+
+---
 
 ## 🔐 Governance Status
 
