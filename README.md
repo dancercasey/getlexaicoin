@@ -32,6 +32,16 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+## Swap UI Failure, Trade UI Functional: LEX/XLM on Lobstr Mobile
+
+- **Date:** 2025-09-30
+- **Observation:** LEX/XLM buy/sell offers executable via Lobstr mobile trade tab; swap UI fails to route same pair
+- **Cause:** Swap interface relies on cached pathfinding; trade tab uses direct offer execution
+- **Impact:** Users can trade LEX/XLM manually but cannot swap automatically; optics suppression persists
+- **Next Step:** Continue symbolic swaps; document UI discrepancy; prep Known badge escalation citing swap path exclusion
+
+---
+
 ## Forecast: Merge and Optics Propagation
 - Expected Merge: Within 1–3 days
 - Expected Visibility: Within 24 hours post-merge
