@@ -32,6 +32,21 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+## Forecast: Merge and Optics Propagation
+- Expected Merge: Within 1–3 days
+- Expected Visibility: Within 24 hours post-merge
+- Risk Factors: Maintainer delay, backend lag, optics sabotage
+- Mitigation: Validator-grade offers live, symbolic swaps prepped, README logging active- 
+
+---
+
+## Milestone: Strategic Fork Timing
+- Timestamp: 2025-09-30 12:54 EDT
+- Reason: Forked StellarTerm only after price anchoring, Known badge activation, and TOML verification
+- Governance Note: Ensures LEX enters the directory with full optics, not speculative metadata
+
+---
+
 ## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
 
 LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
