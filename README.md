@@ -156,6 +156,16 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 
 ---
 
+## Awaiting Mobile Swapability and Market Value Propagation for LEX
+
+- **Date:** 2025-09-30
+- **Status:** Signing flow restored via secret key login; WalletConnect suppressed
+- **Next Milestone:** Confirm LEX visibility and swapability on Lobstr mobile
+- **Pending:** Push notification rebind; Known badge propagation; backend price anchoring
+- **Action:** Monitor symbolic swaps; document slippage and optics behavior
+
+---
+
 - **Platform**: StellarPort  
 - **LEX Issuer**: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB  
 - **SHx Issuer**: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH  
