@@ -155,6 +155,19 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 
 ---
 
+## Mobile Optics Failure: LEX Swap Suppressed
+
+- **Date:** 2025-09-30
+- **Issue:** LEX tradable on Lobstr desktop; mobile app shows “no market pairs”
+- **Actions Taken:**
+  - Restarted mobile device
+  - Verified trustline and balance
+  - Confirmed validator-grade offers active
+- **Screenshots:** Desktop swap success, mobile failure
+- **Next Step:** Escalate to Lobstr support citing backend optics inconsistency
+
+---
+
 ### SHx → XLM Swap Executed
 
 - **Platform**: StellarPort  
