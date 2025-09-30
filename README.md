@@ -102,6 +102,15 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 
 ---
 
+## Governance Milestone: Bitstamp Withdrawal Resolved
+- Timestamp: 2025-09-30 10:23 EDT
+- Issue: 639 XLM withdrawal previously failed to broadcast
+- Resolution: Bitstamp returned full amount to wallet GDA3A3EC5KW6VGYNHE7SLCSXPLVQPAEQURNHY3GTFVF3BFR7MEUCPCTO
+- TXID: [Insert confirmed TX hash]
+- Governance Note: Validator-grade escalation successful. Incident logged as precedent for future asset migration safeguards.
+
+---
+
 ## 🧾 Governance Milestones
 
 - **Known Badge Submission**: 532 XLM payment sent to LOBSTR listing address `GCZCA44G7LYM2Q45EV733D2GGIVPP3L577LHEHVD27GDNW3WWGAE7YAA`  
