@@ -131,6 +131,17 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 - **Notes**: Reinforces LEX’s governance clarity and symbolic optics
 
 ---
+
+## Milestone: Optics Reset via Executed Swap
+- Timestamp: 2025-09-30T10:19 EDT
+- Action: Swapped 1 XLM for ~201.376 LEX via Lobstr mobile app
+- Rate: 1 LEX ≈ 0.0049658 XLM
+- Result: “Last Price” reset from junk trade to validator-grade valuation
+- Swap Fee: 0.8% applied to XLM side
+- Minimum Received: 191.3072 LEX
+- Governance Note: Optics distortion neutralized; validator-grade pricing now indexed in swap pathfinding
+
+---
   
 > “Unlike XRP, which is notorious for whale-driven spoofing and bot exploitation, Lexaicoin [LEX] enforces symbolic scarcity and validator-grade transparency. No artificial pumps. No manipulated optics. Every milestone is sequenced, documented, and publicly verifiable.”
 
