@@ -268,6 +268,19 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 
 ---
 
+## Milestone: LEX/XLM Trading Pair Confirmed
+
+- **Date:** 2025-09-30
+- **Platform:** StellarTerm
+- **Pair:** LEX/XLM
+- **Last Price:** 0.004866 XLM per LEX
+- **Volume (24h):** 21.55 XLM
+- **Validator-Grade Offer:** 0.01 XLM for 1,000,000 LEX
+- **Buy Offers:** Active at 0.004865 XLM
+- **Governance Note:** Symbolic swaps propagated optics; price anchoring confirmed
+
+---
+
 ## 🔐 Governance Status
 
 - Issuer wallet holds **zero LEX**
