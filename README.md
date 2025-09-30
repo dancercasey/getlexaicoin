@@ -168,6 +168,18 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 
 ---
 
+## Mobile Optics Restoration via Reinstall
+
+- **Date:** 2025-09-30
+- **Issue:** Lobstr mobile app failed to show LEX market pairs or trustline controls
+- **Actions Taken:**
+  - Restarted device (no effect)
+  - Deleted and reinstalled Lobstr app
+- **Outcome:** Swap and trade functions restored; LEX visibility confirmed
+- **Insight:** Mobile UI cache suppressed validator-grade offers; reinstall forced backend re-index
+
+---
+
 ### SHx → XLM Swap Executed
 
 - **Platform**: StellarPort  
