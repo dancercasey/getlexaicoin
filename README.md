@@ -31,13 +31,24 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
   - 5B in distributor wallet (held in reserve)  - 
 
 ---
----
 
 ## ✅ Governance Milestones
 
 - **Oct 1, 2025**: Submitted PR #75 to StellarTerm directory for Known badge indexing  
   [`View Pull Request`](https://github.com/stellarterm/stellarterm-directory/pull/75)  
   *Injected LEX into anchors and assets registry with full branding and verified issuer. Domain and TOML validated. Asset active with symbolic trades and governance-grade optics.*
+
+- **Sep 30, 2025**: Swap UI Failure, Trade UI Functional  
+  *LEX/XLM buy/sell offers executable via Lobstr mobile trade tab; swap UI fails to route same pair.*  
+  *Cause: Swap interface relies on cached pathfinding; trade tab uses direct offer execution.*  
+  *Impact: Users can trade LEX/XLM manually but cannot swap automatically; optics suppression persists.*  
+  *Next Step: Continue symbolic swaps; document UI discrepancy; prep Known badge escalation citing swap path exclusion.*
+
+- **Sep 30, 2025**: Strategic Fork Timing  
+  *Forked StellarTerm only after price anchoring, Known badge activation, and TOML verification.*  
+  *Governance Note: Ensures LEX enters the directory with full optics, not speculative metadata.*
+
+- **Sep 29, 2025**: Known Badge Submission
 
 ---
 
