@@ -31,6 +31,15 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
   - 5B in distributor wallet (held in reserve)  - 
 
 ---
+---
+
+## ✅ Governance Milestones
+
+- **Oct 1, 2025**: Submitted PR #75 to StellarTerm directory for Known badge indexing  
+  [`View Pull Request`](https://github.com/stellarterm/stellarterm-directory/pull/75)  
+  *Injected LEX into anchors and assets registry with full branding and verified issuer. Domain and TOML validated. Asset active with symbolic trades and governance-grade optics.*
+
+---
 
 ## Swap UI Failure, Trade UI Functional: LEX/XLM on Lobstr Mobile
 
