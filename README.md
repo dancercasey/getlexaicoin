@@ -87,6 +87,21 @@ Every LEX in circulation is part of a legacy—one built on fairness, transparen
 
 No hype. Just legacy.
 
+## 🧭 Strategic Independence
+
+Lexaicoin [LEX] is not engineered for insiders, whales, or optics manipulation. It is built for the general population—with validator-grade transparency, symbolic scarcity, and procedural clarity.
+
+Unlike tokens designed to concentrate wealth and monetize every transaction for the benefit of a few, LEX enforces:
+
+- ✅ No insider allocations  
+- ✅ No scheduled unlocks or dilution cycles  
+- ✅ No optics bait or speculative hype  
+- ✅ No governance opacity or backend distortion
+
+Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience. Small holders are not sidelined—they are the signal.
+
+LEX is not a wealth funnel. It is a governance beacon.
+
 ---
 
 ## 📉 Price Distortion Incident Log
