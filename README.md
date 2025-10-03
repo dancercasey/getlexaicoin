@@ -75,6 +75,29 @@ Implication: LEX followed every validator-grade step—payment, optics, PR submi
 **Website**: https://getlexaicoin.com  
 **Stellar.toml**: https://getlexaicoin.com/.well-known/stellar.toml
 
+## 🧾 Governance Milestone: Platform Escalation – Lexaicoin [LEX]
+
+**Date**: 2025-10-03  
+**Event**: Multi-platform optics breach escalated to Lobstr and StellarTerm
+
+**StellarTerm Support**  
+- Ticket #71106 received  
+- Auto-response confirms delay due to high volume  
+- No timeline provided for backend indexing or asset visibility fix
+
+**Lobstr Support**  
+- No response received as of Oct 3, 2025  
+- Email sent to support@lobstr.co documenting badge inconsistency and missing price data
+
+**Impact**  
+- Known-tier optics suppressed  
+- Buyer engagement blocked  
+- Trustline UX degraded across Lobstr Web and StellarTerm
+
+**Next Steps**  
+- Monitor ticket status and response time  
+- Prep follow-up memo if no reply within 72 hours  
+
 ---
 
 ## 🔍 Summary
