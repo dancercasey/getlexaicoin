@@ -64,7 +64,28 @@ Implication: LEX followed every validator-grade step—payment, optics, PR submi
   *Forked StellarTerm only after price anchoring, Known badge activation, and TOML verification.*  
   *Governance Note: Ensures LEX enters the directory with full optics, not speculative metadata.*
 
-- **Sep 29, 2025**: Known Badge Submission- 
+- **Sep 29, 2025**: Known Badge Submission-
+
+- # Lexaicoin [LEX] Governance Log  
+## Incident: Multi-Platform Optics Failure & Known-Tier Breach
+
+**Date**: 2025-10-03  
+**Asset**: Lexaicoin [LEX]  
+**Issuer**: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB  
+**Website**: https://getlexaicoin.com  
+**Stellar.toml**: https://getlexaicoin.com/.well-known/stellar.toml
+
+---
+
+## 🔍 Summary
+
+Despite payment for Known-tier listing and full validator-grade sequencing, Lexaicoin [LEX] experienced a multi-platform optics failure across Lobstr and StellarTerm. These failures suppressed buyer engagement, blocked trustline creation, and undermined asset credibility.
+
+---
+
+## 📊 Platform Status Overview
+
+| Platform        | Searchable | Price Visible | Badge Status     | Trust
 
 [x] Symbolic self-transfer of 0.0000001 LEX executed
 [x] Transaction confirmed on ledger #59202005
