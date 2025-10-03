@@ -145,6 +145,21 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 
 LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
 
+🐾 Animal Rescue Commitment
+Lexaicoin [LEX] is more than a digital asset—it’s a movement toward fairness, transparency, and compassion. Once LEX gains traction and achieves validator-grade visibility across platforms, a portion of its strategic reserves will be donated to verified animal rescue organizations.
+
+We believe in:
+🐶 Direct impact: Donations will go to groups with proven track records in rescue, rehabilitation, and rehoming
+
+🐴 Transparency: Every donation will be logged publicly, with transaction hashes and recipient verification
+
+🐾 Legacy building: LEX holders will be part of a movement that uplifts both people and animals
+
+This initiative will be sequenced only after LEX achieves full optics propagation across StellarTerm, LOBSTR, and Scopuly. Until then, every symbolic swap and governance milestone brings us closer to activating this legacy.
+
+LEX is not just a coin—it’s a signal. For small holders. For transparency. For rescue.
+
+
 We are currently engaged in a tactical price war designed to restore symbolic clarity and protect LEX’s long-term value. When this campaign concludes, LEX’s supply will remain strategically tight, with no inflation, no dilution, and no artificial unlocks.
 
 Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience.
