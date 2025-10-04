@@ -117,6 +117,11 @@ Timestamp backend volatility and cache behavior for governance continuity
 
 Despite payment for Known-tier listing and full validator-grade sequencing, Lexaicoin [LEX] experienced a multi-platform optics failure across Lobstr and StellarTerm. These failures suppressed buyer engagement, blocked trustline creation, and undermined asset credibility.
 
+### Scopuly Integration Confirmed – Oct 4, 2025
+- LEX fully visible and tradable on Scopuly
+- Asset branding, swap engine, and wallet compatibility verified
+- Notes: Confirms validator-grade optics and backend hygiene
+
 ---
 
 ## 📊 Platform Status Overview
