@@ -122,6 +122,12 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 - Asset branding, swap engine, and wallet compatibility verified
 - Notes: Confirms validator-grade optics and backend hygiene
 
+### Lexaicoin Optics Throttle – Oct 5, 2025
+- Validator-grade trades executed across Scopuly and StellarTerm
+- Swap path confirmed active; spoof wallet boxed
+- Wallet-side value display suppressed on StellarTerm and LOBSTR
+- Notes: Backend integrity intact; UI-level optics throttling detected despite governance progress
+
 ---
 
 ## 📊 Platform Status Overview
