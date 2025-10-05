@@ -626,4 +626,35 @@ Lexaicoin is built for transparency and strategic growth. Here's what’s ahead:
 This repo will evolve to include guides, updates, and community tools.  
 Feel free to fork, star, or submit pull requests as we grow.
 
+---
 
+## 🧾 ISO 20022 Alignment – Lexaicoin [LEX]
+
+Lexaicoin [LEX] is architected on the Stellar blockchain, inheriting ISO 20022-aligned infrastructure through its peg to XLM and validator-grade swap sequencing. While LEX is not a native ISO 20022 token, it is engineered for interoperability with ISO-standard financial messaging systems.
+
+### ✅ Messaging Architecture
+- Blockchain: Stellar (ISO 20022-ready)
+- Asset Code: LEX
+- Issuer: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB
+- Domain: getlexaicoin.com
+- TOML: getlexaicoin.com/.well-known/stellar.toml
+
+### 🧠 Structured Messaging Integration
+- XML schema compatibility for pacs.008, camt.053, pain.001
+- Memo field sequencing for symbolic swaps and payment metadata
+- Validator-grade timestamping for governance continuity
+
+### 🔒 Compliance & Governance
+- No reissuance, no inflation, no escrow unlocks
+- All swaps logged with transaction hashes and optics memos
+- KYC/AML metadata optional via federated domain integration
+
+### 🔗 Interoperability Status
+| Platform     | ISO Messaging | Swap Engine | Optics Grade |
+|--------------|----------------|-------------|--------------|
+| StellarTerm  | Partial         | ✅           | Validator    |
+| Lobstr       | Suppressed UI   | ✅ (manual)  | Validator    |
+| Scopuly      | ✅              | ✅           | Validator    |
+
+### 🧾 Governance Note
+LEX is not just a digital asset—it is a governance beacon engineered for symbolic scarcity, transparency, and structured interoperability. This ISO 20022 alignment memo confirms LEX’s readiness for institutional visibility and future integration with compliant financial systems.
