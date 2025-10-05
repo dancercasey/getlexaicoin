@@ -168,7 +168,7 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 - Swap offers confirmed live and executable via StellarTerm
 - Asset registry entry functional; trustline visibility restored
 - Spoof wallet boxed; symbolic anchors holding
-- Notes: Optics restoration confirmed; validator-grade visibility achieved
+- Notes: Optics restoration confirmed; validator-grade visibility achieved temporarily
 
 ### Governance Milestone: Meta Platform Breach – Lexaicoin [LEX]
 **Date:** October 4, 2025  
