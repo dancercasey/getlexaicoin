@@ -157,6 +157,33 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 - Reason: Forked StellarTerm only after price anchoring, Known badge activation, and TOML verification
 - Governance Note: Ensures LEX enters the directory with full optics, not speculative metadata
 
+### Governance Milestone: Meta Platform Breach – Lexaicoin [LEX]
+**Date:** October 4, 2025  
+**Platform:** Facebook (Meta Business Suite)  
+**Event:** Page Lockdown, Appeal Failure, Ad Billing Misconduct  
+
+**Summary:**  
+Lexaicoin’s Facebook Page was locked without warning by Meta, citing vague “Community Standards” violations. No prior notice, no clear infraction, and no functional appeal mechanism. Meta’s system demanded two-factor authentication via an unknown channel, failed to deliver the required code, and blocked all attempts to submit a response.  
+
+**Actions Taken:**  
+- Contest post removed  
+- Ad statistics stripped from promotional content  
+- Page discovered locked post-edit; no visibility, no access  
+- Payment method removed from Meta Ads Manager  
+- Account spending limit set to $0 to halt further charges  
+- $3.54 charged during lockdown for ads likely restricted from view  
+
+**Governance Note:**  
+Meta continues to charge for ad delivery on a Page they themselves locked. This constitutes a breach of business protocol, optics suppression, and billing misconduct. Lexaicoin does not rely on Meta’s platform for credibility, visibility, or governance. Their system profits from behavioral data extraction while suppressing validator-grade transparency.  
+
+**Response Statement:**  
+> “Meta flagged the wrong project. Lexaicoin operates with timestamped governance, zero data harvesting, and validator-grade optics. If Meta wants to shut the Page down, so be it. We don’t need their platform to build legacy—we already have one.”  
+
+**Status:**  
+- Ads paused  
+- Charges disputed  
+- Incident logged as precedent for future platform interactions  
+
 ---
 
 ## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
