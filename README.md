@@ -157,6 +157,13 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 - Reason: Forked StellarTerm only after price anchoring, Known badge activation, and TOML verification
 - Governance Note: Ensures LEX enters the directory with full optics, not speculative metadata
 
+### Lexaicoin Visibility Milestone – Oct 4, 2025
+- LEX registered visible activity on Stellar DEX platforms
+- Swap offers confirmed live and executable via StellarTerm
+- Asset registry entry functional; trustline visibility restored
+- Spoof wallet boxed; symbolic anchors holding
+- Notes: Optics restoration confirmed; validator-grade visibility achieved
+
 ### Governance Milestone: Meta Platform Breach – Lexaicoin [LEX]
 **Date:** October 4, 2025  
 **Platform:** Facebook (Meta Business Suite)  
