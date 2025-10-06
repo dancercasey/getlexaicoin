@@ -215,6 +215,18 @@ Meta continues to charge for ad delivery on a Page they themselves locked. This 
 
 ---
 
+### Governance Milestone – Bitstamp Exit and Stellar Migration  
+Date: October 6, 2025  
+Event: Full asset migration initiated from Bitstamp to Stellar ecosystem  
+Details:  
+- Trigger: Bitstamp imposed mandatory “Source of Funds” policy requiring salary slips, tax statements, or investment portfolios  
+- Governance Response: Rejected policy; initiated full withdrawal  
+- Platforms Activated: Scopuly, StellarTerm, LOBSTR  
+- Optics Protocol: Trustline visibility, swap path transparency, README timestamping  
+LEX asserts financial sovereignty and validator-grade transparency—without invasive compliance theater.
+
+---
+
 ## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
 
 LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
