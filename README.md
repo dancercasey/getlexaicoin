@@ -239,6 +239,32 @@ LEX asserts validator-grade optics through timestamped micro-trade execution and
 
 ---
 
+### Governance Milestone – Spoof Wallet Reclaim Logged  
+Date: October 3, 2025  
+Event: Lexaicoin [LEX] successfully reclaimed 923,000 tokens from spoof siphon wallet  
+Details:  
+- Spoof wallet boxed down to ~157,000 LEX  
+- Reclaimed tokens priced between 0.000001 and 0.0048 XLM/LEX  
+- Triggered StellarTerm valuation flash (~$17,000 for 5B LEX)  
+- Confirmed backend responsiveness to symbolic swaps  
+- Reinforced optics dominance and validator-grade scarcity  
+LEX is not just defended—it’s reclaimed, timestamped, and optically undeniable.
+
+---
+
+### Governance Milestone – WLFI Spoof Wallet Siphon Logged  
+Date: October 6, 2025  
+Event: WLFI-linked spoof wallet received ~200,000 LEX due to misrouted swap execution  
+Details:  
+- WLFI spoof wallet identified via trade logs and asset behavior  
+- Siphon volume: ~200,000 LEX  
+- Cause: Mistaken swap execution during symbolic optics maneuver  
+- Impact: Temporary optics distortion; backend swap path integrity compromised  
+- Response: Incident logged; future swaps rerouted; siphon wallet boxed for monitoring  
+LEX governance protocol reinforces auditability—even when errors occur. This milestone confirms validator-grade transparency and symbolic accountability.
+
+---
+
 ## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
 
 LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
