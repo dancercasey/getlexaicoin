@@ -265,6 +265,10 @@ LEX governance protocol reinforces auditability—even when errors occur. This m
 
 ---
 
+WE ARE SPENDING OUR OWN XLM TO RETRIEVE STOLEN TOKENS
+
+---
+
 ## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
 
 LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
