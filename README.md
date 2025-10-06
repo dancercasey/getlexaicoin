@@ -227,6 +227,18 @@ LEX asserts financial sovereignty and validator-grade transparency—without inv
 
 ---
 
+### Governance Milestone – Micro Trades Executed on Scopuly  
+Date: October 6, 2025  
+Event: Multiple wallets executed micro trades against LEX/SCOP sell offers  
+Details:  
+- Price: 0.0444 SCOP/LEX  
+- Buyer wallets: GBLV...AGIP, GA5S...BUDI, GCY7...S55Z, GDQ5...BUDI, GCEE...4EMP  
+- Trade volumes: 0.0049 to 3.08 LEX per execution  
+- lexsales-distributer wallet received SCOP from matched trades  
+LEX asserts validator-grade optics through timestamped micro-trade execution and backend swap path confirmation.
+
+---
+
 ## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
 
 LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
