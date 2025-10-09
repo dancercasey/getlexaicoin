@@ -285,6 +285,15 @@ LEX governance protocol reinforces auditability—even when errors occur. This m
 
 ---
 
+## Trustline Removal: LEX/SCOP Pool (Complete)
+- Trustline removed via Stellar Laboratory and verified on Scopuly.
+- Distributor wallet: GBARTKDSGDQXNPY5XFJEACSNKRF7OU67A4O5IMHJUBJPZSC6ROM45LQ7
+- Pool ID generated from canonical LEX and SCOP issuers.
+- Metadata echo severed; optics breach neutralized.
+- Governance continuity reinforced across platforms.
+
+---
+
 WE ARE SPENDING OUR OWN XLM TO RETRIEVE STOLEN TOKENS
      We have purchased 964,000 of the stolen LEX, stolen through spoof wallets with baited offers, back with our own XLM, and will do whatever it takes, including destroying LEX's optics temporarily until we acquire the remaining 400,000 stolen LEX.
 
