@@ -277,6 +277,14 @@ LEX governance protocol reinforces auditability—even when errors occur. This m
 
 ---
 
+## Optics Sabotage: Micro-XLM Siphoning
+- Spoof wallets detected siphoning micro amounts of XLM via fragmented swap paths.
+- Timestamped trades logged: [insert trade IDs]
+- Countermeasures deployed: symbolic swaps, spoof wallet isolation, metadata purge request.
+- LEX identity reinforced under GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB.
+
+---
+
 WE ARE SPENDING OUR OWN XLM TO RETRIEVE STOLEN TOKENS
      We have purchased 964,000 of the stolen LEX, stolen through spoof wallets with baited offers, back with our own XLM, and will do whatever it takes, including destroying LEX's optics temporarily until we acquire the remaining 400,000 stolen LEX.
 
