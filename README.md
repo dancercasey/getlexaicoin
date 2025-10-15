@@ -51,6 +51,67 @@ Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedbac
 - Activated banner link to governance log for transparency and continuity
 - Confirmed homepage visibility at https://getlexaicoin.com
 - GitHub Pages deployment verified and cache flushed
+---
+# Lexaicoin (LEX) Optics Breach: Scopuly Indexing Suppression
+
+## 🔍 Overview
+
+On **October 15, 2025**, Lexaicoin (LEX) experienced a sudden and unexplained visibility wipe on Scopuly. The asset, previously searchable and fully indexed with logo and metadata, is now:
+
+- ❌ No longer searchable by asset name or issuer address  
+- ❌ Missing logo and metadata  
+- ❌ Absent from Scopuly’s asset explorer  
+
+This README documents the breach, confirms technical integrity, and anchors a validator-grade request for optics restoration.
+
+---
+
+## 🧭 Asset Details
+
+- **Asset Name:** Lexaicoin (LEX)  
+- **Issuer Address:** `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`  
+- **Home Domain:** `lexaicoin.com`  
+- **TOML File:** HTTPS-valid, passes StellarExpert validation  
+- **Prior Visibility:** Indexed on Scopuly with logo and metadata  
+- **Current Status:** Delisted without notice or explanation  
+
+---
+
+## 📅 Timeline of Breach
+
+| Date           | Event Description                                      |
+|----------------|--------------------------------------------------------|
+| Oct 14, 2025   | LEX fully visible on Scopuly with logo and metadata    |
+| Oct 15, 2025   | Asset becomes unsearchable; logo and rating disappear  |
+
+No changes were made to the TOML file or issuer metadata during this window.
+
+---
+
+## 🛡️ Technical Validation
+
+- ✅ TOML file accessible and compliant  
+- ✅ Asset visible on StellarTerm and Lobstr Vault  
+- ✅ No trustline or volume anomalies detected  
+- ✅ Swap path echoes and symbolic trades confirmed active  
+
+---
+
+## 📜 Request for Action
+
+We respectfully request:
+
+1. **Immediate re-indexing** of Lexaicoin (LEX) on Scopuly  
+2. Restoration of logo, metadata, and search visibility  
+3. Clarification of any backend filters or triggers that caused the delisting  
+
+Please confirm receipt and advise on next steps for restoring visibility.
+
+---
+
+## 🧠 Governance Continuity
+
+This incident is logged as part of Lexaicoin’s validator-grade governance framework. All optics breaches are timestamped and documented to ensure transparency, accountability, and asset credibility.
 
 ---
 
