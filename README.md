@@ -37,6 +37,16 @@ Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedbac
 
 ---
 
+### ✅ Milestone: TOML Upgrade for Validator-Grade Visibility
+- Updated `stellar.toml` with full `[DOCUMENTATION]`, `[[ACCOUNTS]]`, and `[[CURRENCIES]]` blocks
+- Linked README for governance continuity
+- Activated logo, description, and issuer visibility on Scopuly and StellarTerm
+- Confirmed TOML is live at: https://getlexaicoin.com/.well-known/stellar.toml
+- Validated via Stellar TOML checker
+
+
+---
+
 ## ✅ Governance Milestones
 
 ## Known Badge Submission – Lobstr Delay
