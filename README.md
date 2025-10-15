@@ -42,8 +42,15 @@ Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedbac
 - Linked README for governance continuity
 - Activated logo, description, and issuer visibility on Scopuly and StellarTerm
 - Confirmed TOML is live at: https://getlexaicoin.com/.well-known/stellar.toml
-- Validated via Stellar TOML checker
+- Validated via Stellar TOML checker- 
 
+---
+
+### ✅ Milestone: Homepage Activation and Governance Link
+- Replaced contest homepage with validator-grade optics, tokenomics, and roadmap
+- Activated banner link to governance log for transparency and continuity
+- Confirmed homepage visibility at https://getlexaicoin.com
+- GitHub Pages deployment verified and cache flushed
 
 ---
 
