@@ -32,6 +32,10 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ---
 
+Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
+
+---
+
 ## ✅ Governance Milestones
 
 ## Known Badge Submission – Lobstr Delay
