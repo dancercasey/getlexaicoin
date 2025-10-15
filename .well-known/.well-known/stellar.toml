@@ -1,4 +1,6 @@
-VERSION="2.0.0"
+VERSION = "2.0.0"
+network_passphrase = "Public Global Stellar Network ; September 2015"
+ORG_ID = "LEXAI-001"
 
 [DOCUMENTATION]
 ORG_NAME = "Lex AI Coin"
@@ -10,10 +12,13 @@ ORG_PHONE_NUMBER = "+1-845-541-9492"
 ORG_EMAIL = "keir1@hvc.rr.com"
 documentation = "https://github.com/dancercasey/getlexaicoin/blob/main/README.md"
 
+[[ACCOUNTS]]
+address = "GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB"
+
 [[CURRENCIES]]
-code="LEX"
-issuer="GBARTKDSGDQXNPY5XFJEACSNKRF7OU67A4O5IMHJUBJPZSC6ROM45LQ7"
-display_decimals=2
-name="Lex AI Coin"
-desc="A token for AI-driven financial ecosystems"
-image="https://getlexaicoin.com/assets/lexaicoin-symbol.jpg"
+code = "LEX"
+issuer = "GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB"
+display_decimals = 2
+name = "Lex AI Coin"
+desc = "A token for AI-driven financial ecosystems"
+image = "https://getlexaicoin.com/assets/lexaicoin-symbol.png"
