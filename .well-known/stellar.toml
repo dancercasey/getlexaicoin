@@ -1,13 +1,15 @@
-VERSION="2.0.0"
+VERSION = "2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Lex AI Coin"
-ORG_URL="https://getlexaicoin.com"
-ORG_DESCRIPTION="Lex AI Coin is a decentralized token for AI-powered finance."
+ORG_NAME = "Lex AI Coin"
+ORG_URL = "https://getlexaicoin.com"
+ORG_DESCRIPTION = "Lex AI Coin is a decentralized token for AI-powered finance."
 ORG_LOGO = "https://getlexaicoin.com/assets/lexaicoin-symbol.png"
-ORG_PHYSICAL_ADDRESS="Wallkill, NY"
-ORG_PHONE_NUMBER="+1-845-541-9492"
-ORG_EMAIL="keir1@hvc.rr.com"
+ORG_PHYSICAL_ADDRESS = "Wallkill, NY"
+ORG_PHONE_NUMBER = "+1-845-541-9492"
+ORG_EMAIL = "keir1@hvc.rr.com"
+documentation = "https://github.com/dancercasey/getlexaicoin/blob/main/README.md"
+
 
 [[CURRENCIES]]
 code = "LEX"
