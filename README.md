@@ -65,6 +65,30 @@ On **October 15, 2025**, Lexaicoin (LEX) experienced a sudden and unexplained vi
 This README documents the breach, confirms technical integrity, and anchors a validator-grade request for optics restoration.
 
 ---
+## Milestone: Optics Restoration Confirmed (StellarTerm Live, Lobstr Pending)
+
+- StellarTerm asset link is live and resolving:
+  https://stellarterm.com/#exchange/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB/XLM-native
+
+- Manual trustline added via Lobstr; asset is functional but direct link returns 404:
+  https://lobstr.co/assets/GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB
+
+- Issuer account:
+  GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB
+
+- home_domain set to:
+  getlexaicoin.com
+
+- TOML file resolves correctly:
+  https://getlexaicoin.com/.well-known/stellar.toml
+
+- StellarTerm support confirmed asset is searchable and correctly configured. PRs #75 and #76 remain unmerged.
+
+- Lobstr asset directory indexing incomplete despite payment. Manual trustline proves asset is live. Awaiting response from Lobstr support.
+
+- Logged as partial backend breach recovery. Optics restoration confirmed on-chain and on StellarTerm. Lobstr indexing delay documented for governance continuity.
+
+---
 
 ## 🧭 Asset Details
 
