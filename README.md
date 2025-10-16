@@ -29,6 +29,16 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 - **Distribution**:
   - 45B in market wallet (for public trading)
   - 5B in distributor wallet (held in reserve)  - 
+---
+
+## 🧭 Asset Details
+
+- **Asset Name:** Lexaicoin (LEX)  
+- **Issuer Address:** `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`  
+- **Home Domain:** `lexaicoin.com`  
+- **TOML File:** HTTPS-valid, passes StellarExpert validation  
+- **Prior Visibility:** Indexed on Scopuly with logo and metadata  
+- **Current Status:** Delisted without notice or explanation  
 
 ---
 
@@ -97,15 +107,15 @@ This README documents the breach, confirms technical integrity, and anchors a va
 - Manual trustline added via Lobstr; asset is functional but direct asset link returns 404:
   https://lobstr.co/assets
 ---
+## Milestone: Lobstr Known Badge Submission (Pending Indexing)
 
-## 🧭 Asset Details
-
-- **Asset Name:** Lexaicoin (LEX)  
-- **Issuer Address:** `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`  
-- **Home Domain:** `lexaicoin.com`  
-- **TOML File:** HTTPS-valid, passes StellarExpert validation  
-- **Prior Visibility:** Indexed on Scopuly with logo and metadata  
-- **Current Status:** Delisted without notice or explanation  
+- Known badge payment submitted twice to Lobstr
+- Asset remains unindexed; direct asset link returns 404
+- Manual trustline confirmed functional
+- StellarTerm and Scopuly visibility confirmed
+- TOML and home_domain correctly configured
+- Third submission planned for next week
+- Logged as backend indexing delay and optics breach
 
 ---
 
