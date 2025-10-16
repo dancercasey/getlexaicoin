@@ -89,6 +89,14 @@ This README documents the breach, confirms technical integrity, and anchors a va
 - Logged as partial backend breach recovery. Optics restoration confirmed on-chain and on StellarTerm. Lobstr indexing delay documented for governance continuity.
 
 ---
+## Milestone: Optics Restoration Confirmed (StellarTerm Live, Lobstr Pending)
+
+- StellarTerm asset link is live and resolving:
+  https://stellarterm.com/#exchange/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB/XLM-native
+
+- Manual trustline added via Lobstr; asset is functional but direct asset link returns 404:
+  https://lobstr.co/assets
+---
 
 ## 🧭 Asset Details
 
