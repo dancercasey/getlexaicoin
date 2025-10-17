@@ -8,6 +8,8 @@ ORG_LOGO = "https://getlexaicoin.com/assets/lexaicoin-symbol.png"
 ORG_PHYSICAL_ADDRESS = "Wallkill, NY"
 ORG_PHONE_NUMBER = "+1-845-541-9492"
 ORG_EMAIL = "keir1@hvc.rr.com"
+ORG_OFFICIAL_EMAIL = "keir1@hvc.rr.com"
+ORG_GITHUB = "https://github.com/dancercasey/getlexaicoin"
 documentation = "https://github.com/dancercasey/getlexaicoin/blob/main/README.md"
 
 
