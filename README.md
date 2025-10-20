@@ -102,6 +102,12 @@ REGARDING LEX OUTLAYS
      Outlays of lex will originate from LEX Distributer wallet in accordance with current pricing, and never in any amount that would affect value.  LEX has 50 Billion Tokens, that doesnt mean they will all be issued to the public.  LEX will be contained for the benefit of all.
      
 ---
+
+POLITICS
+     Lexaicoin governance rejects political division. No Democrat. No Republican. No donations. No distortion. We script transparency, not tribalism. Validator-grade autonomy preserved.
+     Unite the people.
+
+---
    
 Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
 Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
