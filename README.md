@@ -96,6 +96,12 @@ UPDATE ON SPOOF WALLETS
      The other spoof wallet containing 1,000,000 LEX remains inactive, and we are watching them.
 
 ---
+
+REGARDING LEX OUTLAYS
+     There will be zero outlays of LEX to family members or friends, or any other entity.  We don't want anybody pumping and dumping LEX for their own benefit, and will do exerything we can to contain those actions.
+     Outlays of lex will originate from LEX Distributer wallet in accordance with current pricing, and never in any amount that would affect value.  LEX has 50 Billion Tokens, that doesnt mean they will all be issued to the public.  LEX will be contained for the benefit of all.
+     
+---
    
 Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
 Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
