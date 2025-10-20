@@ -85,6 +85,12 @@ LEX is not a wealth funnel. It is a governance beacon.
 
 ---
 
+---
+
+Jake Claver channel followed Lexaicoin on Facebook. Optics penetration confirmed. Messaging now visible to XRP/XLM wealth strategy audience. Governance continuity reinforced. Spoof wallet containment narrative indexed.
+
+---
+
 Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
 Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
 
