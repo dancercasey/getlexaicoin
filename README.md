@@ -38,7 +38,50 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 - **Home Domain:** `lexaicoin.com`  
 - **TOML File:** HTTPS-valid, passes StellarExpert validation  
 - **Prior Visibility:** Indexed on Scopuly with logo and metadata  
-- **Current Status:** Delisted without notice or explanation  
+- **Current Status:** Delisted without notice or explanation- 
+
+---
+## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
+
+LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
+
+🐾 Animal Rescue Commitment
+Lexaicoin [LEX] is more than a digital asset—it’s a movement toward fairness, transparency, and compassion. Once LEX gains traction and achieves validator-grade visibility across platforms, a portion of its strategic reserves will be donated to verified animal rescue organizations.
+
+We believe in:
+🐶 Direct impact: Donations will go to groups with proven track records in rescue, rehabilitation, and rehoming
+
+🐴 Transparency: Every donation will be logged publicly, with transaction hashes and recipient verification
+
+🐾 Legacy building: LEX holders will be part of a movement that uplifts both people and animals
+
+This initiative will be sequenced only after LEX achieves full optics propagation across StellarTerm, LOBSTR, and Scopuly. Until then, every symbolic swap and governance milestone brings us closer to activating this legacy.
+
+LEX is not just a coin—it’s a signal. For small holders. For transparency. For rescue.
+
+
+We are currently engaged in a tactical price war designed to restore symbolic clarity and protect LEX’s long-term value. When this campaign concludes, LEX’s supply will remain strategically tight, with no inflation, no dilution, and no artificial unlocks.
+
+Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience.
+
+No hype. Just legacy.
+
+---
+
+## 🧭 Strategic Independence
+
+Lexaicoin [LEX] is not engineered for insiders, whales, or optics manipulation. It is built for the general population—with validator-grade transparency, symbolic scarcity, and procedural clarity.
+
+Unlike tokens designed to concentrate wealth and monetize every transaction for the benefit of a few, LEX enforces:
+
+- ✅ No insider allocations  
+- ✅ No scheduled unlocks or dilution cycles  
+- ✅ No optics bait or speculative hype  
+- ✅ No governance opacity or backend distortion
+
+Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience. Small holders are not sidelined—they are the signal.
+
+LEX is not a wealth funnel. It is a governance beacon.
 
 ---
 
@@ -422,47 +465,6 @@ LEX governance protocol reinforces auditability—even when errors occur. This m
 WE ARE SPENDING OUR OWN XLM TO RETRIEVE STOLEN TOKENS
      We have purchased 964,000 of the stolen LEX, stolen through spoof wallets with baited offers, back with our own XLM, and will do whatever it takes, including destroying LEX's optics temporarily until we acquire the remaining 400,000 stolen LEX.
 
-## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
-
-LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
-
-🐾 Animal Rescue Commitment
-Lexaicoin [LEX] is more than a digital asset—it’s a movement toward fairness, transparency, and compassion. Once LEX gains traction and achieves validator-grade visibility across platforms, a portion of its strategic reserves will be donated to verified animal rescue organizations.
-
-We believe in:
-🐶 Direct impact: Donations will go to groups with proven track records in rescue, rehabilitation, and rehoming
-
-🐴 Transparency: Every donation will be logged publicly, with transaction hashes and recipient verification
-
-🐾 Legacy building: LEX holders will be part of a movement that uplifts both people and animals
-
-This initiative will be sequenced only after LEX achieves full optics propagation across StellarTerm, LOBSTR, and Scopuly. Until then, every symbolic swap and governance milestone brings us closer to activating this legacy.
-
-LEX is not just a coin—it’s a signal. For small holders. For transparency. For rescue.
-
-
-We are currently engaged in a tactical price war designed to restore symbolic clarity and protect LEX’s long-term value. When this campaign concludes, LEX’s supply will remain strategically tight, with no inflation, no dilution, and no artificial unlocks.
-
-Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience.
-
-No hype. Just legacy.
-
-## 🧭 Strategic Independence
-
-Lexaicoin [LEX] is not engineered for insiders, whales, or optics manipulation. It is built for the general population—with validator-grade transparency, symbolic scarcity, and procedural clarity.
-
-Unlike tokens designed to concentrate wealth and monetize every transaction for the benefit of a few, LEX enforces:
-
-- ✅ No insider allocations  
-- ✅ No scheduled unlocks or dilution cycles  
-- ✅ No optics bait or speculative hype  
-- ✅ No governance opacity or backend distortion
-
-Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience. Small holders are not sidelined—they are the signal.
-
-LEX is not a wealth funnel. It is a governance beacon.
-
----
 
 ## 📉 Price Distortion Incident Log
 
