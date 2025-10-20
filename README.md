@@ -91,6 +91,12 @@ Jake Claver channel followed Lexaicoin on Facebook. Optics penetration confirmed
 
 ---
 
+UPDATE ON SPOOF WALLETS
+      Lex was violated by 2 spoof wallets, through our own ignorance of the process, which has now been rectified, one absconded with 1,400,000 LEX tokens, as of 10/20/2025, we have repurchased with bait offers 1,312,000, with our own XLM. We have bait traps set and will repurchase the remaining 88,000 as soon as possible.  They are affecting optics and pricing, but we have them surrounded and will erase the threat ASAP.
+     The other spoof wallet containing 1,000,000 LEX remains inactive, and we are watching them.
+
+---
+   
 Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
 Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
 
