@@ -1,36 +1,31 @@
 VERSION = "2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME = "Lex AI Coin"
+ORG_NAME = "Lexaicoin"
 ORG_URL = "https://getlexaicoin.com"
-ORG_DESCRIPTION = "Lex AI Coin is a decentralized token for AI-powered finance."
-ORG_LOGO = "https://getlexaicoin.com/assets/lexaicoin-symbol.png"
-ORG_PHYSICAL_ADDRESS = "Wallkill, NY"
-ORG_PHONE_NUMBER = "+1-845-541-9492"
-ORG_EMAIL = "keir1@hvc.rr.com"
-ORG_OFFICIAL_EMAIL = "keir1@hvc.rr.com"
-ORG_GITHUB = "https://github.com/dancercasey/getlexaicoin"
-documentation = "https://github.com/dancercasey/getlexaicoin/blob/main/README.md"
+ORG_DESCRIPTION = "Validator-grade asset with timestamped governance, symbolic scarcity, and optics restoration"
+ORG_LOGO = "https://getlexaicoin.com/logo.png"
+ORG_PHYSICAL_ADDRESS = "Validator-grade governance node"
+ORG_OFFICIAL_EMAIL = "support@getlexaicoin.com"
 
+[[ACCOUNTS]]
+address = "GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
+role = "issuer"
 
 [[CURRENCIES]]
 code = "LEX"
-issuer = "GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB"
-status = "live"
+issuer = "GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
 display_decimals = 2
 name = "Lexaicoin"
-desc = "Fixed supply of 50 billion LEX. Issuer wallet holds zero tokens. No further issuance possible."
-conditions = "All tokens distributed. Asset supply is immutable by governance. Trustlines open."
-# Updated Sept 23, 2025 – switched to PNG for platform compatibility
-image = "https://getlexaicoin.com/assets/lexaicoin-symbol.png"
+desc = "Capped, deflationary token engineered for transparency, auditability, and symbolic clarity"
+image = "https://getlexaicoin.com/logo.png"
+conditions = "Issued under validator-grade governance protocols. No inflation. No reissuance. No scheduled unlocks."
+fixed_number = "50000000000"
+is_unlimited = false
 
-
-[[ACCOUNTS]]
-address = "GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB"  # Issuer
-
-[[ACCOUNTS]]
-address = "GBARTKDSGDQXNPY5XFJEACSNKRF7OU67A4O5IMHJUBJPZSC6ROM45LQ7"  # Distributor
-
-[[ACCOUNTS]]
-public_key = "GDA3A3EC5KW6VGYNHE7SLCSXPLVQPAEQURNHY3GTFVF3BFR7MEUCPCTO"
-role = "market"
+[PRINCIPALS]
+name = "Validator Governance Node"
+email = "support@getlexaicoin.com"
+twitter = "@LEXCoinOfficial"
+telegram = "https://t.me/LEXCoinOfficial"
+github = "https://github.com/dancercasey/getlexaicoin"
