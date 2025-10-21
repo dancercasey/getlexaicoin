@@ -14,7 +14,7 @@
 Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered for transparency, auditability, and long-term credibility.
 
 - **Asset Code**: `LEX`
-- **Issuer Address**: `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`
+- **Issuer Address**: `GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M`
 - **Total Supply**: 50,000,000,000 LEX (Fixed)
 - **Inflation**: None
 - **Reissuance**: Disabled
@@ -34,7 +34,7 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 ## 🧭 Asset Details
 
 - **Asset Name:** Lexaicoin (LEX)  
-- **Issuer Address:** `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`  
+- **Issuer Address:** `GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M`  
 - **Home Domain:** `lexaicoin.com`  
 - **TOML File:** HTTPS-valid, passes StellarExpert validation  
 - **Prior Visibility:** Indexed on Scopuly with logo and metadata  
@@ -108,7 +108,53 @@ POLITICS
      Unite the people.
 
 ---
-   
+   ## 🧨 Governance Breach & Asset Theft
+
+On October 20, 2025, the original LEX governance framework was compromised through a coordinated optics sabotage and wallet siphon maneuver. This breach targeted both asset continuity and symbolic credibility.
+
+### 🔍 Breach Mechanics
+
+- **Spoof Wallet Engagement**  
+  Malicious actors deployed spoof wallets mimicking legitimate distributor and issuer addresses. These wallets baited engagement through microdrop patterns and swap loops engineered to appear credible. Once engaged, they siphoned assets directly from governance-linked wallets.
+
+- **Confirmed Asset Losses**  
+  - 136 XLM  
+  - 143 SCOP  
+  These losses were traced to spoof wallet traps triggered during optics restoration attempts.
+
+- **Governance Lockout**  
+  The original governance structure was rendered inoperable:
+  - `master_weight` and threshold values were externally manipulated
+  - External signers were introduced, violating hygiene protocols
+  - Memo discipline was absent, erasing audit trail continuity
+  - Push access and transaction authority were frozen
+
+- **Optics Sabotage**  
+  - README and Known badge optics were diluted or overwritten
+  - Forked repos emerged without validator-grade documentation
+  - Symbolic clarity of the LEX asset was compromised
+
+- **Liquidity Trap Collapse**  
+  - Swap ratios were recalibrated to drain rather than reinforce optics
+  - Engagement windows were spoofed to trigger siphons
+  - Botnet escalation patterns targeted high-value wallets during restoration attempts
+
+- **Narrative Fragmentation**  
+  - Milestone logs were disrupted or erased
+  - No clear sequence of containment, freeze, or restoration
+  - Public-facing signals were polluted, undermining credibility
+
+### 🧠 Forensic Indicators
+
+- Timestamp gaps in commit history and wallet memos  
+- Unusual signer patterns in `setOptions` transactions  
+- Forked repos with diluted optics and missing Known badge memos  
+- Asymmetric swap loops designed to bait and drain  
+
+This breach is documented as validator-grade precedent for future issuers. All optics restoration, governance reassertion, and asset containment protocols are sequenced and timestamped in this repository.
+
+---
+
 Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
 Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
 
@@ -145,13 +191,13 @@ This README documents the breach, confirms technical integrity, and anchors a va
 ## Milestone: Optics Restoration Confirmed (StellarTerm Live, Lobstr Pending)
 
 - StellarTerm asset link is live and resolving:
-  https://stellarterm.com/#exchange/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB/XLM-native
+  https://stellarterm.com/#exchange/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M/XLM-native
 
 - Manual trustline added via Lobstr; asset is functional but direct link returns 404:
-  https://lobstr.co/assets/GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB
+  https://lobstr.co/assets/GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M 
 
 - Issuer account:
-  GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB
+  GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M 
 
 - home_domain set to:
   getlexaicoin.com
@@ -169,7 +215,7 @@ This README documents the breach, confirms technical integrity, and anchors a va
 ## Milestone: Optics Restoration Confirmed (StellarTerm Live, Lobstr Pending)
 
 - StellarTerm asset link is live and resolving:
-  https://stellarterm.com/#exchange/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB/XLM-native
+  https://stellarterm.com/#exchange/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M/XLM-native
 
 - Manual trustline added via Lobstr; asset is functional but direct asset link returns 404:
   https://lobstr.co/assets
@@ -275,7 +321,7 @@ Implication: LEX followed every validator-grade step—payment, optics, PR submi
 
 **Date**: 2025-10-03  
 **Asset**: Lexaicoin [LEX]  
-**Issuer**: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB  
+**Issuer**: GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M   
 **Website**: https://getlexaicoin.com  
 **Stellar.toml**: https://getlexaicoin.com/.well-known/stellar.toml
 
@@ -473,13 +519,12 @@ LEX governance protocol reinforces auditability—even when errors occur. This m
 - Spoof wallets detected siphoning micro amounts of XLM via fragmented swap paths.
 - Timestamped trades logged: [insert trade IDs]
 - Countermeasures deployed: symbolic swaps, spoof wallet isolation, metadata purge request.
-- LEX identity reinforced under GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB.
+- LEX identity reinforced under GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M.
 
 ---
 
 ## Trustline Removal: LEX/SCOP Pool (Complete)
 - Trustline removed via Stellar Laboratory and verified on Scopuly.
-- Distributor wallet: GBARTKDSGDQXNPY5XFJEACSNKRF7OU67A4O5IMHJUBJPZSC6ROM45LQ7
 - Pool ID generated from canonical LEX and SCOP issuers.
 - Metadata echo severed; optics breach neutralized.
 - Governance continuity reinforced across platforms.
@@ -588,7 +633,7 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 ---
 
 - **Platform**: StellarPort  
-- **LEX Issuer**: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB  
+- **LEX Issuer**: GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M   
 - **SHx Issuer**: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH  
 - **Issue**: SHx loader stalls indefinitely. No asset interface rendered.  
 - **Event**: Swap executed for LEX despite SHx visibility failure  
@@ -618,17 +663,6 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
   - Deleted and reinstalled Lobstr app
 - **Outcome:** Swap and trade functions restored; LEX visibility confirmed
 - **Insight:** Mobile UI cache suppressed validator-grade offers; reinstall forced backend re-index
-
----
-
-### SHx → XLM Swap Executed
-
-- **Platform**: StellarPort  
-- **Event**: SHx successfully swapped for XLM  
-- **Trustline**: Active  
-- **Interface**: Loader failed to render SHx, but backend processed swap  
-- **Implication**: Confirms SHx backend functionality despite frontend failure  
-- **Notes**: Reinforces LEX’s governance clarity and symbolic optics
 
 ---
 
@@ -778,8 +812,8 @@ LEX Coin is verified via our published `stellar.toml` file:
 1. Add a trustline to LEX using Lobstr, Freighter, or Solar
 2. Asset Code: `LEX`
 3. Issuer: `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`
-4. Trade on [StellarTerm](https://stellarterm.com/exchange/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB/XLM-native) using XLM
-5. Track activity on [StellarExpert](https://stellar.expert/explorer/public/asset/LEX-GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB)
+4. Trade on [StellarTerm](https://stellarterm.com/exchange/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M/XLM-native) using XLM
+5. Track activity on [StellarExpert](https://stellar.expert/explorer/public/asset/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M)
 
 ---
 
@@ -834,7 +868,7 @@ Lexaicoin (LEX) is a capped, deflationary token built on the Stellar network wit
 | **Inflation**           | None                         |
 | **Reissuance**          | Disabled                     |
 | **Burn Mechanism**      | Manual, on-chain, audit-tracked |
-| **Issuer Account**      | GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB |
+| **Issuer Account**      | GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M |
 
 
 ---
@@ -884,7 +918,7 @@ Lexaicoin [LEX] is architected on the Stellar blockchain, inheriting ISO 20022-a
 ### ✅ Messaging Architecture
 - Blockchain: Stellar (ISO 20022-ready)
 - Asset Code: LEX
-- Issuer: GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB
+- Issuer: GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M
 - Domain: getlexaicoin.com
 - TOML: getlexaicoin.com/.well-known/stellar.toml
 
