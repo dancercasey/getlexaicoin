@@ -1,31 +1,39 @@
-VERSION = "2.0.0"
+VERSION="2025.10.21.03.00"
 
-[DOCUMENTATION]
-ORG_NAME = "Lexaicoin"
-ORG_URL = "https://getlexaicoin.com"
-ORG_DESCRIPTION = "Validator-grade asset with timestamped governance, symbolic scarcity, and optics restoration"
-ORG_LOGO = "https://getlexaicoin.com/logo.png"
-ORG_PHYSICAL_ADDRESS = "Validator-grade governance node"
-ORG_OFFICIAL_EMAIL = "support@getlexaicoin.com"
-
-[[ACCOUNTS]]
-address = "GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
-role = "issuer"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+SIGNING_KEY="GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
+HORIZON_URL="https://horizon.stellar.org"
+ACCOUNTS=[
+  "GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M" # Issuer only
+]
 
 [[CURRENCIES]]
-code = "LEX"
-issuer = "GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
-display_decimals = 2
-name = "Lexaicoin"
-desc = "Capped, deflationary token engineered for transparency, auditability, and symbolic clarity"
-image = "https://getlexaicoin.com/logo.png"
-conditions = "Issued under validator-grade governance protocols. No inflation. No reissuance. No scheduled unlocks."
-fixed_number = "50000000000"
-is_unlimited = false
+code="LEX"
+issuer="GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
+display_decimals=7
+name="Lexaicoin"
+desc="Validator-grade asset issued by Lexaicoin for governance continuity and optics restoration"
+image="https://getlexaicoin.com/assets/lex-icon.png"
+conditions="Only valid when issued by GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
+fixed_number=50000000000
+is_unlimited=false
 
-[PRINCIPALS]
-name = "Validator Governance Node"
-email = "support@getlexaicoin.com"
-twitter = "@LEXCoinOfficial"
-telegram = "https://t.me/LEXCoinOfficial"
-github = "https://github.com/dancercasey/getlexaicoin"
+[[PRINCIPALS]]
+name="Lexaicoin Governance Node"
+email="keir1@hvc.rr.com"
+keybase="lexaicoin"
+twitter="lexaicoin"
+github="lexaicoin"
+
+[[VALIDATORS]]
+alias="LEX Core Validator"
+display_name="Lexaicoin Validator Node"
+public_key="GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
+host="getlexaicoin.com"
+history="https://getlexaicoin.com/validator-history"
+
+# 🛡️ Governance Warning
+# The only valid issuer of LEX is:
+# GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M
+# Any other issuer using this domain or asset code is fraudulent.
+# Legacy issuer GB5B5ZMZYTFF6JWYXC47OX7ZHHUUU5MQRW4OLPJVKE6FQ2OD6I4ESXTG is decommissioned and locked.
