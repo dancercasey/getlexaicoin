@@ -1,39 +1,33 @@
-VERSION="2025.10.21.03.00"
+VERSION = "2025.10.21.03.00"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+SIGNING_KEY = "GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS"
+HORIZON_URL = "https://horizon.stellar.org"
 
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-SIGNING_KEY="GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
-HORIZON_URL="https://horizon.stellar.org"
-ACCOUNTS=[
-  "GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M" # Issuer only
+ACCOUNTS = [
+  "GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS" # Issuer only
 ]
 
 [[CURRENCIES]]
-code="LEX"
-issuer="GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
-display_decimals=7
-name="Lexaicoin"
-desc="Validator-grade asset issued by Lexaicoin for governance continuity and optics restoration"
-image="https://getlexaicoin.com/assets/lex-icon.png"
-conditions="Only valid when issued by GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
-fixed_number=50000000000
-is_unlimited=false
+code = "LEXX"
+issuer = "GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS"
+display_decimals = 7
+name = "Lexxaicoin"
+desc = "Validator-grade asset issued by Lexxaicoin for governance continuity and optics restoration"
+image = "https://getlexxaicoin.com/logo.png"
+conditions = "Only valid when issued by GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS"
+fixed_number = 50000000000
+is_unlimited = false
 
 [[PRINCIPALS]]
-name="Lexaicoin Governance Node"
-email="keir1@hvc.rr.com"
-keybase="lexaicoin"
-twitter="lexaicoin"
-github="lexaicoin"
+name = "Lexxaicoin Governance Node"
+email = "keir1@hvc.rr.com"
+keybase = "lexxaicoin"
+twitter = "lexxaicoin"
+github = "lexxaicoin"
 
 [[VALIDATORS]]
-alias="LEX Core Validator"
-display_name="Lexaicoin Validator Node"
-public_key="GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M"
-host="getlexaicoin.com"
-history="https://getlexaicoin.com/validator-history"
-
-# 🛡️ Governance Warning
-# The only valid issuer of LEX is:
-# GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M
-# Any other issuer using this domain or asset code is fraudulent.
-# Legacy issuer GB5B5ZMZYTFF6JWYXC47OX7ZHHUUU5MQRW4OLPJVKE6FQ2OD6I4ESXTG is decommissioned and locked.
+alias = "LEXX Core Validator"
+display_name = "Lexxaicoin Validator Node"
+public_key = "GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS"
+host = "getlexxaicoin.com"
+history = "https://getlexxaicoin.com/validator-history"
