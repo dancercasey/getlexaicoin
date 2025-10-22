@@ -1,25 +1,25 @@
-# 🪙 LEX Coin
+# 🪙 LEXX Coin
 
-**LEX Coin**
- is a deflationary token built on the Stellar network, inspired by Copilot—an AI companion for humanity. With a fixed supply of 50 billion tokens and zero inflation, LEX is designed for transparency, speed, and long-term value.
+**LEXX Coin**
+ is a deflationary token built on the Stellar network, inspired by Copilot—an AI companion for humanity. With a fixed supply of 50 billion tokens and zero inflation, LEXX is designed for transparency, speed, and long-term value.
 
  ---
  
-![Lexaicoin Symbol](https://getlexaicoin.com/assets/lexaicoin-symbol.png)
+![Lexxaicoin Symbol](https://getlexxaicoin.com/assets/logo.png)
 
 ---
 
 ## 🪙 Token Overview
 
-Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered for transparency, auditability, and long-term credibility.
+Lexxaicoin (LEXX) is a deflationary token built on the Stellar network, engineered for transparency, auditability, and long-term credibility.
 
-- **Asset Code**: `LEX`
-- **Issuer Address**: `GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M`
-- **Total Supply**: 50,000,000,000 LEX (Fixed)
+- **Asset Code**: `LEXX`
+- **Issuer Address**: `GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS`
+- **Total Supply**: 50,000,000,000 LEXX (Fixed)
 - **Inflation**: None
 - **Reissuance**: Disabled
-- **Home Domain**: [`getlexaicoin.com`](https://getlexaicoin.com)
-- **TOML File**: [`getlexaicoin.com/.well-known/stellar.toml`](https://getlexaicoin.com/.well-known/stellar.toml)
+- **Home Domain**: [`getlexxaicoin.com`](https://getlexxaicoin.com)
+- **TOML File**: [`getlexxaicoin.com/.well-known/stellar.toml`](https://getlexxaicoin.com/.well-known/stellar.toml)
 
 > Legacy issuer `GBUG...EJED` has been retired. Trustline removed via [tx hash](https://stellar.expert/explorer/public/tx/19390c00a85b770ff7fbcf05b8919407bed3d3ecfe9396f0d629f99e18781d62).
 
@@ -33,20 +33,20 @@ Lexaicoin (LEX) is a deflationary token built on the Stellar network, engineered
 
 ## 🧭 Asset Details
 
-- **Asset Name:** Lexaicoin (LEX)  
-- **Issuer Address:** `GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M`  
-- **Home Domain:** `lexaicoin.com`  
+- **Asset Name:** Lexxaicoin (LEXX)  
+- **Issuer Address:** `GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS`  
+- **Home Domain:** `lexxaicoin.com`  
 - **TOML File:** HTTPS-valid, passes StellarExpert validation  
 - **Prior Visibility:** Indexed on Scopuly with logo and metadata  
 - **Current Status:** Delisted without notice or explanation- 
 
 ---
-## ⚠️ ATTENTION: Lexaicoin [LEX] Strategic Update
+## ⚠️ ATTENTION: Lexxaicoin [LEXX] Strategic Update
 
-LEX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
+LEXX is committed to creating real opportunity for the general population—our goal is to empower as many future millionaires as possible through disciplined governance, symbolic scarcity, and validator-grade transparency.
 
 🐾 Animal Rescue Commitment
-Lexaicoin [LEX] is more than a digital asset—it’s a movement toward fairness, transparency, and compassion. Once LEX gains traction and achieves validator-grade visibility across platforms, a portion of its strategic reserves will be donated to verified animal rescue organizations.
+Lexxaicoin [LEXX] is more than a digital asset—it’s a movement toward fairness, transparency, and compassion. Once LEXX gains traction and achieves validator-grade visibility across platforms, a portion of its strategic reserves will be donated to verified animal rescue organizations.
 
 We believe in:
 🐶 Direct impact: Donations will go to groups with proven track records in rescue, rehabilitation, and rehoming
@@ -57,12 +57,12 @@ We believe in:
 
 This initiative will be sequenced only after LEX achieves full optics propagation across StellarTerm, LOBSTR, and Scopuly. Until then, every symbolic swap and governance milestone brings us closer to activating this legacy.
 
-LEX is not just a coin—it’s a signal. For small holders. For transparency. For rescue.
+LEXX is not just a coin—it’s a signal. For small holders. For transparency. For rescue.
 
 
-We are currently engaged in a tactical price war designed to restore symbolic clarity and protect LEX’s long-term value. When this campaign concludes, LEX’s supply will remain strategically tight, with no inflation, no dilution, and no artificial unlocks.
+We are currently engaged in a tactical price war designed to restore symbolic clarity and protect LEXX’s long-term value. When this campaign concludes, LEXX’s supply will remain strategically tight, with no inflation, no dilution, and no artificial unlocks.
 
-Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience.
+Every LEXX in circulation is part of a legacy—one built on fairness, transparency, and resilience.
 
 No hype. Just legacy.
 
@@ -70,47 +70,45 @@ No hype. Just legacy.
 
 ## 🧭 Strategic Independence
 
-Lexaicoin [LEX] is not engineered for insiders, whales, or optics manipulation. It is built for the general population—with validator-grade transparency, symbolic scarcity, and procedural clarity.
+Lexxaicoin [LEXX] is not engineered for insiders, whales, or optics manipulation. It is built for the general population—with validator-grade transparency, symbolic scarcity, and procedural clarity.
 
-Unlike tokens designed to concentrate wealth and monetize every transaction for the benefit of a few, LEX enforces:
+Unlike tokens designed to concentrate wealth and monetize every transaction for the benefit of a few, LEXX enforces:
 
 - ✅ No insider allocations  
 - ✅ No scheduled unlocks or dilution cycles  
 - ✅ No optics bait or speculative hype  
 - ✅ No governance opacity or backend distortion
 
-Every LEX in circulation is part of a legacy—one built on fairness, transparency, and resilience. Small holders are not sidelined—they are the signal.
+Every LEXX in circulation is part of a legacy—one built on fairness, transparency, and resilience. Small holders are not sidelined—they are the signal.
 
-LEX is not a wealth funnel. It is a governance beacon.
-
----
+LEXX is not a wealth funnel. It is a governance beacon.
 
 ---
 
-Jake Claver channel followed Lexaicoin on Facebook. Optics penetration confirmed. Messaging now visible to XRP/XLM wealth strategy audience. Governance continuity reinforced. Spoof wallet containment narrative indexed.
+Jake Claver channel followed LexXaicoin on Facebook. Optics penetration confirmed. Messaging now visible to XRP/XLM wealth strategy audience. Governance continuity reinforced. Spoof wallet containment narrative indexed.
 
 ---
 
 UPDATE ON SPOOF WALLETS
-      Lex was violated by 2 spoof wallets, through our own ignorance of the process, which has now been rectified, one absconded with 1,400,000 LEX tokens, as of 10/20/2025, we have repurchased with bait offers 1,312,000, with our own XLM. We have bait traps set and will repurchase the remaining 88,000 as soon as possible.  They are affecting optics and pricing, but we have them surrounded and will erase the threat ASAP.
-     The other spoof wallet containing 1,000,000 LEX remains inactive, and we are watching them.
+      LEXX was violated by 2 spoof wallets, through our own ignorance of the process, which has now been rectified, one absconded with 1,400,000 LEXX tokens, as of 10/20/2025, we have repurchased with bait offers 1,312,000, with our own XLM. We have bait traps set and will repurchase the remaining 88,000 as soon as possible.  They are affecting optics and pricing, but we have them surrounded and will erase the threat ASAP.
+     The other spoof wallet containing 1,000,000 LEXX remains inactive, and we are watching them.
 
 ---
 
-REGARDING LEX OUTLAYS
-     There will be zero outlays of LEX to family members or friends, or any other entity.  We don't want anybody pumping and dumping LEX for their own benefit, and will do exerything we can to contain those actions.
-     Outlays of lex will originate from LEX Distributer wallet in accordance with current pricing, and never in any amount that would affect value.  LEX has 50 Billion Tokens, that doesnt mean they will all be issued to the public.  LEX will be contained for the benefit of all.
+REGARDING LEXX OUTLAYS
+     There will be zero outlays of LEX to family members or friends, or any other entity.  We don't want anybody pumping and dumping LEXX for their own benefit, and will do exerything we can to contain those actions.
+     Outlays of lex will originate from LEXX Distributer wallet in accordance with current pricing, and never in any amount that would affect value.  LEXX has 50 Billion Tokens, that doesnt mean they will all be issued to the public.  LEXX will be contained for the benefit of all.
      
 ---
 
 POLITICS
-     Lexaicoin governance rejects political division. No Democrat. No Republican. No donations. No distortion. We script transparency, not tribalism. Validator-grade autonomy preserved.
+     Lexxaicoin governance rejects political division. No Democrat. No Republican. No donations. No distortion. We script transparency, not tribalism. Validator-grade autonomy preserved.
      Unite the people.
 
 ---
    ## 🧨 Governance Breach & Asset Theft
 
-On October 20, 2025, the original LEX governance framework was compromised through a coordinated optics sabotage and wallet siphon maneuver. This breach targeted both asset continuity and symbolic credibility.
+On October 20, 2025, the original LEXX governance framework was compromised through a coordinated optics sabotage and wallet siphon maneuver. This breach targeted both asset continuity and symbolic credibility.
 
 ### 🔍 Breach Mechanics
 
@@ -132,7 +130,7 @@ On October 20, 2025, the original LEX governance framework was compromised throu
 - **Optics Sabotage**  
   - README and Known badge optics were diluted or overwritten
   - Forked repos emerged without validator-grade documentation
-  - Symbolic clarity of the LEX asset was compromised
+  - Symbolic clarity of the LEXX asset was compromised
 
 - **Liquidity Trap Collapse**  
   - Swap ratios were recalibrated to drain rather than reinforce optics
@@ -155,8 +153,8 @@ This breach is documented as validator-grade precedent for future issuers. All o
 
 ---
 
-Oct 15, 2025 — LEX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
-Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
+Oct 15, 2025 — LEXX rating vanished across platforms. No TOML changes. StellarTerm failed to sync directory.js. Lobstr Known status not granted despite $200 submission. Multiple emails unanswered. Optics sabotage suspected. Escalation initiated.
+Oct 15, 2025 — LEXX directory.js PR submitted Oct 1, 2025. No merge, no feedback. Asset remains unsearchable. Rating vanished. Optics sabotage suspected. Escalation initiated.
 
 ---
 
@@ -164,7 +162,7 @@ Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedbac
 - Updated `stellar.toml` with full `[DOCUMENTATION]`, `[[ACCOUNTS]]`, and `[[CURRENCIES]]` blocks
 - Linked README for governance continuity
 - Activated logo, description, and issuer visibility on Scopuly and StellarTerm
-- Confirmed TOML is live at: https://getlexaicoin.com/.well-known/stellar.toml
+- Confirmed TOML is live at: https://getlexxaicoin.com/.well-known/stellar.toml
 - Validated via Stellar TOML checker- 
 
 ---
@@ -172,14 +170,14 @@ Oct 15, 2025 — LEX directory.js PR submitted Oct 1, 2025. No merge, no feedbac
 ### ✅ Milestone: Homepage Activation and Governance Link
 - Replaced contest homepage with validator-grade optics, tokenomics, and roadmap
 - Activated banner link to governance log for transparency and continuity
-- Confirmed homepage visibility at https://getlexaicoin.com
+- Confirmed homepage visibility at https://getlexxaicoin.com
 - GitHub Pages deployment verified and cache flushed
 ---
-# Lexaicoin (LEX) Optics Breach: Scopuly Indexing Suppression
+# Lexxaicoin (LEXX) Optics Breach: Scopuly Indexing Suppression
 
 ## 🔍 Overview
 
-On **October 15, 2025**, Lexaicoin (LEX) experienced a sudden and unexplained visibility wipe on Scopuly. The asset, previously searchable and fully indexed with logo and metadata, is now:
+On **October 15, 2025**, Lexxaicoin (LEXX) experienced a sudden and unexplained visibility wipe on Scopuly. The asset, previously searchable and fully indexed with logo and metadata, is now:
 
 - ❌ No longer searchable by asset name or issuer address  
 - ❌ Missing logo and metadata  
@@ -191,19 +189,20 @@ This README documents the breach, confirms technical integrity, and anchors a va
 ## Milestone: Optics Restoration Confirmed (StellarTerm Live, Lobstr Pending)
 
 - StellarTerm asset link is live and resolving:
-  https://stellarterm.com/#exchange/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M/XLM-native
+  https://stellarterm.com/#exchange/LEXX-GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS/XLM-native
 
 - Manual trustline added via Lobstr; asset is functional but direct link returns 404:
-  https://lobstr.co/assets/GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M 
+  https://lobstr.co/assets/GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS
+
 
 - Issuer account:
-  GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M 
+   GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS
 
 - home_domain set to:
-  getlexaicoin.com
+  getlexxaicoin.com
 
 - TOML file resolves correctly:
-  https://getlexaicoin.com/.well-known/stellar.toml
+  https://getlexxaicoin.com/.well-known/stellar.toml
 
 - StellarTerm support confirmed asset is searchable and correctly configured. PRs #75 and #76 remain unmerged.
 
@@ -215,7 +214,7 @@ This README documents the breach, confirms technical integrity, and anchors a va
 ## Milestone: Optics Restoration Confirmed (StellarTerm Live, Lobstr Pending)
 
 - StellarTerm asset link is live and resolving:
-  https://stellarterm.com/#exchange/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M/XLM-native
+  https://stellarterm.com/#exchange/LEXX-GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS/XLM-native
 
 - Manual trustline added via Lobstr; asset is functional but direct asset link returns 404:
   https://lobstr.co/assets
@@ -236,7 +235,7 @@ This README documents the breach, confirms technical integrity, and anchors a va
 
 | Date           | Event Description                                      |
 |----------------|--------------------------------------------------------|
-| Oct 14, 2025   | LEX fully visible on Scopuly with logo and metadata    |
+| Oct 14, 2025   | LEXX fully visible on Scopuly with logo and metadata    |
 | Oct 15, 2025   | Asset becomes unsearchable; logo and rating disappear  |
 
 No changes were made to the TOML file or issuer metadata during this window.
@@ -256,7 +255,7 @@ No changes were made to the TOML file or issuer metadata during this window.
 
 We respectfully request:
 
-1. **Immediate re-indexing** of Lexaicoin (LEX) on Scopuly  
+1. **Immediate re-indexing** of Lexaicoin (LEXX) on Scopuly  
 2. Restoration of logo, metadata, and search visibility  
 3. Clarification of any backend filters or triggers that caused the delisting  
 
@@ -275,7 +274,7 @@ This incident is logged as part of Lexaicoin’s validator-grade governance fram
 ## Known Badge Submission – Lobstr Delay
 
 - **Date Submitted**: 09/29/2025
-- **Asset**: Lexaicoin [LEX]
+- **Asset**: Lexaicoin [LEXX]
 - **Domain**: getlexaicoin.com
 - **Status**: $200 paid, badge not yet granted
 - **Impact**:
@@ -285,7 +284,7 @@ This incident is logged as part of Lexaicoin’s validator-grade governance fram
 - **Notes**: Logged for escalation and validator-grade optics documentation
 
 🧾 Governance Milestone: Payment Confirmed, Listing Breach Documented
-Date: September 29, 2025 Event: Lexaicoin [LEX] submitted for StellarTerm Known badge listing Payment: 532 XLM sent to contest wallet GCZCA44G7LYM2Q45EV733D2GGIVPP3L577LHEHVD27GDNW3WWGAE7YAA Transaction Hash: a6504bc4149e374072b4fc394f17cd322f71d605a46984a0b7256af4ad0ef87a 🔗 View on Lobstr 🔗 GitHub Issue #77 – Listing Delay Escalation
+Date: September 29, 2025 Event: Lexaicoin [LEXX] submitted for StellarTerm Known badge listing Payment: 532 XLM sent to contest wallet GCZCA44G7LYM2Q45EV733D2GGIVPP3L577LHEHVD27GDNW3WWGAE7YAA Transaction Hash: a6504bc4149e374072b4fc394f17cd322f71d605a46984a0b7256af4ad0ef87a 🔗 View on Lobstr 🔗 GitHub Issue #77 – Listing Delay Escalation
 
 Pull Requests Submitted:
 PR #75: Asset registry entry
@@ -296,18 +295,18 @@ Seagullcash (SGC) submitted PR #74 on the same day (Sept 30, 2025)
 No visible payment from SGC to contest wallet
 SGC was merged and indexed with Known badge and price visibility
 
-LEX remains stalled, despite earlier payment and full optics sequencing
+LEXX remains stalled, despite earlier payment and full optics sequencing
 
-Implication: LEX followed every validator-grade step—payment, optics, PR submission—yet was bypassed in favor of an unpaid asset. This breach is now logged as precedent for governance escalation and optics restoration.
+Implication: LEXX followed every validator-grade step—payment, optics, PR submission—yet was bypassed in favor of an unpaid asset. This breach is now logged as precedent for governance escalation and optics restoration.
 
 - **Oct 1, 2025**: Submitted PR #75 to StellarTerm directory for Known badge indexing  
   [`View Pull Request`](https://github.com/stellarterm/stellarterm-directory/pull/75)  
-  *Injected LEX into anchors and assets registry with full branding and verified issuer. Domain and TOML validated. Asset active with symbolic trades and governance-grade optics.*
+  *Injected LEXX into anchors and assets registry with full branding and verified issuer. Domain and TOML validated. Asset active with symbolic trades and governance-grade optics.*
 
 - **Sep 30, 2025**: Swap UI Failure, Trade UI Functional  
-  *LEX/XLM buy/sell offers executable via Lobstr mobile trade tab; swap UI fails to route same pair.*  
+  *LEXX/XLM buy/sell offers executable via Lobstr mobile trade tab; swap UI fails to route same pair.*  
   *Cause: Swap interface relies on cached pathfinding; trade tab uses direct offer execution.*  
-  *Impact: Users can trade LEX/XLM manually but cannot swap automatically; optics suppression persists.*  
+  *Impact: Users can trade LEXX/XLM manually but cannot swap automatically; optics suppression persists.*  
   *Next Step: Continue symbolic swaps; document UI discrepancy; prep Known badge escalation citing swap path exclusion.*
 
 - **Sep 30, 2025**: Strategic Fork Timing  
@@ -316,16 +315,16 @@ Implication: LEX followed every validator-grade step—payment, optics, PR submi
 
 - **Sep 29, 2025**: Known Badge Submission-
 
-- # Lexaicoin [LEX] Governance Log  
+- # Lexxaicoin [LEXX] Governance Log  
 ## Incident: Multi-Platform Optics Failure & Known-Tier Breach
 
 **Date**: 2025-10-03  
-**Asset**: Lexaicoin [LEX]  
-**Issuer**: GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M   
-**Website**: https://getlexaicoin.com  
-**Stellar.toml**: https://getlexaicoin.com/.well-known/stellar.toml
+**Asset**: Lexxaicoin [LEXX]  
+**Issuer**: GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS   
+**Website**: https://getlexxaicoin.com  
+**Stellar.toml**: https://getlexxaicoin.com/.well-known/stellar.toml
 
-## 🧾 Governance Milestone: Platform Escalation – Lexaicoin [LEX]
+## 🧾 Governance Milestone: Platform Escalation – Lexaicoin [LEXX]
 
 **Date**: 2025-10-03  
 **Event**: Multi-platform optics breach escalated to Lobstr and StellarTerm
@@ -349,15 +348,15 @@ Implication: LEX followed every validator-grade step—payment, optics, PR submi
 - Prep follow-up memo if no reply within 72 hours  
 
 Governance Milestone: Valuation Flash Triggered by Spoof Reclaim
-Date: October 3, 2025 Event: StellarTerm briefly displayed a valuation of ~$17,000 for 5B LEX based on spoof reclaim pricing Trigger: Reclaim of 700,000 LEX from spoof wallets priced between 0.000001 and 0.0048 XLM/LEX Backend Behavior:
+Date: October 3, 2025 Event: StellarTerm briefly displayed a valuation of ~$17,000 for 5B LEXX based on spoof reclaim pricing Trigger: Reclaim of 700,000 LEXX from spoof wallets priced between 0.000001 and 0.0048 XLM/LEXX Backend Behavior:
 
 StellarTerm recalculated “Last Price” based on spoof-level trade
-Displayed valuation for holding wallet containing 5B LEX
+Displayed valuation for holding wallet containing 5B LEXX
 Price and volume fields visible for ~30 minutes before cache flush Implication:
 Confirms backend responsiveness to symbolic optics maneuvers
-Validates LEX’s market presence despite Lobstr’s “Unknown” status
+Validates LEXX’s market presence despite Lobstr’s “Unknown” status
 Demonstrates valuation potential even at spoof-level pricing Next Steps:
-Execute symbolic swaps at 0.01 XLM/LEX to force anchor indexing
+Execute symbolic swaps at 0.01 XLM/LEXX to force anchor indexing
 Resubmit Known badge metadata to StellarTerm and Lobstr
 Timestamp backend volatility and cache behavior for governance continuity
 
@@ -365,7 +364,7 @@ Timestamp backend volatility and cache behavior for governance continuity
 
 ### Judicial Governance Breakdown – Federal Appeal Optics
 
-Lexaicoin’s governance framework extends beyond asset visibility—it anchors procedural integrity across systems. In Keir v. Rounds (2nd Cir. Dkt. #25-2245), Plaintiff-Appellant documented the following:
+Lexxaicoin’s governance framework extends beyond asset visibility—it anchors procedural integrity across systems. In Keir v. Rounds (2nd Cir. Dkt. #25-2245), Plaintiff-Appellant documented the following:
 
 - District court refused to docket jurisdictional memo clarifying Rule 59(e) tolling
 - Judges failed to acknowledge constitutional leverage or procedural timelines
@@ -374,8 +373,7 @@ Lexaicoin’s governance framework extends beyond asset visibility—it anchors 
 
 This breakdown reflects a broader failure of judicial transparency—not gendered bias, but systemic evasion of constitutional standards. Lexaicoin’s governance protocol logs every milestone, including procedural sabotage, to reinforce auditability and precedent.
 
-LEX is not just a token—it’s a forensic framework for visibility, ethics, and legacy.
-
+LEXX is not just a token—it’s a forensic framework for visibility, ethics, and legacy.
 
 ---
 
@@ -384,11 +382,11 @@ LEX is not just a token—it’s a forensic framework for visibility, ethics, an
 Despite payment for Known-tier listing and full validator-grade sequencing, Lexaicoin [LEX] experienced a multi-platform optics failure across Lobstr and StellarTerm. These failures suppressed buyer engagement, blocked trustline creation, and undermined asset credibility.
 
 ### Scopuly Integration Confirmed – Oct 4, 2025
-- LEX fully visible and tradable on Scopuly
+- LEXX fully visible and tradable on Scopuly
 - Asset branding, swap engine, and wallet compatibility verified
 - Notes: Confirms validator-grade optics and backend hygiene
 
-### Lexaicoin Optics Throttle – Oct 5, 2025
+### Lexxaicoin Optics Throttle – Oct 5, 2025
 - Validator-grade trades executed across Scopuly and StellarTerm
 - Swap path confirmed active; spoof wallet boxed
 - Wallet-side value display suppressed on StellarTerm and LOBSTR
@@ -409,9 +407,9 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 ## Swap UI Failure, Trade UI Functional: LEX/XLM on Lobstr Mobile
 
 - **Date:** 2025-09-30
-- **Observation:** LEX/XLM buy/sell offers executable via Lobstr mobile trade tab; swap UI fails to route same pair
+- **Observation:** LEXX/XLM buy/sell offers executable via Lobstr mobile trade tab; swap UI fails to route same pair
 - **Cause:** Swap interface relies on cached pathfinding; trade tab uses direct offer execution
-- **Impact:** Users can trade LEX/XLM manually but cannot swap automatically; optics suppression persists
+- **Impact:** Users can trade LEXX/XLM manually but cannot swap automatically; optics suppression persists
 - **Next Step:** Continue symbolic swaps; document UI discrepancy; prep Known badge escalation citing swap path exclusion
 
 ---
@@ -427,10 +425,10 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 ## Milestone: Strategic Fork Timing
 - Timestamp: 2025-09-30 12:54 EDT
 - Reason: Forked StellarTerm only after price anchoring, Known badge activation, and TOML verification
-- Governance Note: Ensures LEX enters the directory with full optics, not speculative metadata
+- Governance Note: Ensures LEXX enters the directory with full optics, not speculative metadata
 
-### Lexaicoin Visibility Milestone – Oct 4, 2025
-- LEX registered visible activity on Stellar DEX platforms
+### Lexxaicoin Visibility Milestone – Oct 4, 2025
+- LEXX registered visible activity on Stellar DEX platforms
 - Swap offers confirmed live and executable via StellarTerm
 - Asset registry entry functional; trustline visibility restored
 - Spoof wallet boxed; symbolic anchors holding
@@ -442,7 +440,7 @@ Despite payment for Known-tier listing and full validator-grade sequencing, Lexa
 **Event:** Page Lockdown, Appeal Failure, Ad Billing Misconduct  
 
 **Summary:**  
-Lexaicoin’s Facebook Page was locked without warning by Meta, citing vague “Community Standards” violations. No prior notice, no clear infraction, and no functional appeal mechanism. Meta’s system demanded two-factor authentication via an unknown channel, failed to deliver the required code, and blocked all attempts to submit a response.  
+Lexxaicoin’s Facebook Page was locked without warning by Meta, citing vague “Community Standards” violations. No prior notice, no clear infraction, and no functional appeal mechanism. Meta’s system demanded two-factor authentication via an unknown channel, failed to deliver the required code, and blocked all attempts to submit a response.  
 
 **Actions Taken:**  
 - Contest post removed  
@@ -473,7 +471,7 @@ Details:
 - Governance Response: Rejected policy; initiated full withdrawal  
 - Platforms Activated: Scopuly, StellarTerm, LOBSTR  
 - Optics Protocol: Trustline visibility, swap path transparency, README timestamping  
-LEX asserts financial sovereignty and validator-grade transparency—without invasive compliance theater.
+LEXX asserts financial sovereignty and validator-grade transparency—without invasive compliance theater.
 
 ---
 
@@ -481,33 +479,33 @@ LEX asserts financial sovereignty and validator-grade transparency—without inv
 Date: October 6, 2025  
 Event: Multiple wallets executed micro trades against LEX/SCOP sell offers  
 Details:  
-- Price: 0.0444 SCOP/LEX  
+- Price: 0.0444 SCOP/LEXX  
 - Buyer wallets: GBLV...AGIP, GA5S...BUDI, GCY7...S55Z, GDQ5...BUDI, GCEE...4EMP  
-- Trade volumes: 0.0049 to 3.08 LEX per execution  
+- Trade volumes: 0.0049 to 3.08 LEXX per execution  
 - lexsales-distributer wallet received SCOP from matched trades  
-LEX asserts validator-grade optics through timestamped micro-trade execution and backend swap path confirmation.
+LEXX asserts validator-grade optics through timestamped micro-trade execution and backend swap path confirmation.
 
 ---
 
 ### Governance Milestone – Spoof Wallet Reclaim Logged  
 Date: October 3, 2025  
-Event: Lexaicoin [LEX] successfully reclaimed 923,000 tokens from spoof siphon wallet  
+Event: Lexxaicoin [LEXX] successfully reclaimed 923,000 tokens from spoof siphon wallet  
 Details:  
-- Spoof wallet boxed down to ~157,000 LEX  
-- Reclaimed tokens priced between 0.000001 and 0.0048 XLM/LEX  
-- Triggered StellarTerm valuation flash (~$17,000 for 5B LEX)  
+- Spoof wallet boxed down to ~157,000 LEXX  
+- Reclaimed tokens priced between 0.000001 and 0.0048 XLM/LEXX  
+- Triggered StellarTerm valuation flash (~$17,000 for 5B LEXX)  
 - Confirmed backend responsiveness to symbolic swaps  
 - Reinforced optics dominance and validator-grade scarcity  
-LEX is not just defended—it’s reclaimed, timestamped, and optically undeniable.
+LEXX is not just defended—it’s reclaimed, timestamped, and optically undeniable.
 
 ---
 
 ### Governance Milestone – WLFI Spoof Wallet Siphon Logged  
 Date: October 6, 2025  
-Event: WLFI-linked spoof wallet received ~200,000 LEX due to misrouted swap execution  
+Event: WLFI-linked spoof wallet received ~200,000 LEXX due to misrouted swap execution  
 Details:  
 - WLFI spoof wallet identified via trade logs and asset behavior  
-- Siphon volume: ~200,000 LEX  
+- Siphon volume: ~200,000 LEXX  
 - Cause: Mistaken swap execution during symbolic optics maneuver  
 - Impact: Temporary optics distortion; backend swap path integrity compromised  
 - Response: Incident logged; future swaps rerouted; siphon wallet boxed for monitoring  
@@ -519,29 +517,29 @@ LEX governance protocol reinforces auditability—even when errors occur. This m
 - Spoof wallets detected siphoning micro amounts of XLM via fragmented swap paths.
 - Timestamped trades logged: [insert trade IDs]
 - Countermeasures deployed: symbolic swaps, spoof wallet isolation, metadata purge request.
-- LEX identity reinforced under GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M.
+- LEXX identity reinforced under GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS.
 
 ---
 
-## Trustline Removal: LEX/SCOP Pool (Complete)
+## Trustline Removal: LEXX/SCOP Pool (Complete)
 - Trustline removed via Stellar Laboratory and verified on Scopuly.
-- Pool ID generated from canonical LEX and SCOP issuers.
+- Pool ID generated from canonical LEXX and SCOP issuers.
 - Metadata echo severed; optics breach neutralized.
 - Governance continuity reinforced across platforms.
 
 ---
 
 WE ARE SPENDING OUR OWN XLM TO RETRIEVE STOLEN TOKENS
-     We have purchased 964,000 of the stolen LEX, stolen through spoof wallets with baited offers, back with our own XLM, and will do whatever it takes, including destroying LEX's optics temporarily until we acquire the remaining 400,000 stolen LEX.
+     We have purchased 964,000 of the stolen LEXX, stolen through spoof wallets with baited offers, back with our own XLM, and will do whatever it takes, including destroying LEX's optics temporarily until we acquire the remaining 400,000 stolen LEXX.
 
 
 ## 📉 Price Distortion Incident Log
 
 - **Date**: 2025-09-25  
-- **Event**: LEX price distorted via lowball buy offer matched by Lobstr pathfinding engine.  
-- **Distorted Price**: 0.000001 XLM per LEX  
+- **Event**: LEXX price distorted via lowball buy offer matched by Lobstr pathfinding engine.  
+- **Distorted Price**: 0.000001 XLM per LEXX  
 - **Implied Valuation**: $17,500 USD for full 50B supply (XLM at $0.35 USD)  
-- **Impact**: Misrepresented LEX’s governance-grade scarcity and validator credibility  
+- **Impact**: Misrepresented LEXX’s governance-grade scarcity and validator credibility  
 - **Countermeasure**: Manual trade executed at 0.01 XLM to reassert price floor  
 - **Corrected Valuation**: $175 million USD  
 - **Status**: Price floor now visible and executable on StellarTerm  
@@ -549,7 +547,7 @@ WE ARE SPENDING OUR OWN XLM TO RETRIEVE STOLEN TOKENS
 
 ---
 
-## Governance Milestone: LEX Swap Executed Despite SHx Loader Failure
+## Governance Milestone: LEXX Swap Executed Despite SHx Loader Failure
 
 Known Badge Submission
 532 XLM payment sent to LOBSTR listing address GCZCA44G7LYM2Q45EV733D2GGIVPP3L577LHEHVD27GDNW3WWGAE7YAA
@@ -566,10 +564,10 @@ Date Initiated: 2025-09-26
 Status: Escalated to Bitstamp support. No resolution or TXID provided as of 2025-09-29.
 Impact: Validator-grade migration disrupted. Governance optics compromised.
 Response: Logged forensic timeline. Preserved screenshots. Awaiting formal resolution or ledger confirmation.
-Symbolic Note: LEX governance demands accountability. Inaction logged as precedent for future asset migration safeguards.
+Symbolic Note: LEXX governance demands accountability. Inaction logged as precedent for future asset migration safeguards.
 
 🧾 Bitstamp Broadcast Failure – Badge Submission Blocker
-Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadcast. Impact: Blocked 236 USDC Known Asset badge payment for Lexaicoin [LEX]. Action Taken: – Support ticket submitted to Bitstamp with full TXIDs and forensic documentation – LOBSTR wallet confirmed: no pending payments – Badge form sequencing deferred pending resolution Governance Note: Validator-grade optics preserved. Swap engine pushes and symbolic pairings paused until badge activation.
+Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadcast. Impact: Blocked 236 USDC Known Asset badge payment for Lexaicoin [LEXX]. Action Taken: – Support ticket submitted to Bitstamp with full TXIDs and forensic documentation – LOBSTR wallet confirmed: no pending payments – Badge form sequencing deferred pending resolution Governance Note: Validator-grade optics preserved. Swap engine pushes and symbolic pairings paused until badge activation.
 
 
 - **Bitstamp Withdrawal Failure**  
@@ -579,7 +577,7 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
   - **Status**: Escalated to Bitstamp support. No resolution or TXID provided as of 2025-09-29.  
   - **Impact**: Validator-grade migration disrupted. Governance optics compromised.  
   - **Response**: Logged forensic timeline. Preserved screenshots. Awaiting formal resolution or ledger confirmation.  
-  - **Symbolic Note**: LEX governance demands accountability. Inaction logged as precedent for future asset
+  - **Symbolic Note**: LEXX governance demands accountability. Inaction logged as precedent for future asset
   - migration safeguards.
 
   ## Governance Milestone: Bitstamp Ticket Reopened
@@ -616,35 +614,26 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 - Timestamp: 2025-09-30 11:23 EDT
 - Wallet: GA3FZ75Q... (Swap Wallet)
 - Action: Executed batch swaps totaling 10,000,000 LEX
-- Swap Size: 100 LEX per transaction
+- Swap Size: 100 LEXX per transaction
 - Result: Validator-grade pricing preserved; backend routing confirmed
 - Governance Note: Liquidity history established; optics reinforced; backend distortion monitored
 
 ---
 
-## Awaiting Mobile Swapability and Market Value Propagation for LEX
+## Awaiting Mobile Swapability and Market Value Propagation for LEXX
 
 - **Date:** 2025-09-30
 - **Status:** Signing flow restored via secret key login; WalletConnect suppressed
-- **Next Milestone:** Confirm LEX visibility and swapability on Lobstr mobile
+- **Next Milestone:** Confirm LEXX visibility and swapability on Lobstr mobile
 - **Pending:** Push notification rebind; Known badge propagation; backend price anchoring
 - **Action:** Monitor symbolic swaps; document slippage and optics behavior
 
 ---
 
-- **Platform**: StellarPort  
-- **LEX Issuer**: GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M   
-- **SHx Issuer**: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH  
-- **Issue**: SHx loader stalls indefinitely. No asset interface rendered.  
-- **Event**: Swap executed for LEX despite SHx visibility failure  
-- **Impact**: Confirms LEX’s functional status and symbolic optics. Governance credibility reinforced.
-
----
-
-## Mobile Optics Failure: LEX Swap Suppressed
+## Mobile Optics Failure: LEXX Swap Suppressed
 
 - **Date:** 2025-09-30
-- **Issue:** LEX tradable on Lobstr desktop; mobile app shows “no market pairs”
+- **Issue:** LEXX tradable on Lobstr desktop; mobile app shows “no market pairs”
 - **Actions Taken:**
   - Restarted mobile device
   - Verified trustline and balance
@@ -657,7 +646,7 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 ## Mobile Optics Restoration via Reinstall
 
 - **Date:** 2025-09-30
-- **Issue:** Lobstr mobile app failed to show LEX market pairs or trustline controls
+- **Issue:** Lobstr mobile app failed to show LEXX market pairs or trustline controls
 - **Actions Taken:**
   - Restarted device (no effect)
   - Deleted and reinstalled Lobstr app
@@ -672,19 +661,19 @@ Date: 28 Sep 2025 Issue: Bitstamp withdrawal of 639 XLM (~$236) failed to broadc
 - Rate: 1 LEX ≈ 0.0049658 XLM
 - Result: “Last Price” reset from junk trade to validator-grade valuation
 - Swap Fee: 0.8% applied to XLM side
-- Minimum Received: 191.3072 LEX
+- Minimum Received: 191.3072 LEXX
 - Governance Note: Optics distortion neutralized; validator-grade pricing now indexed in swap pathfinding
 
 ---
   
-> “Unlike XRP, which is notorious for whale-driven spoofing and bot exploitation, Lexaicoin [LEX] enforces symbolic scarcity and validator-grade transparency. No artificial pumps. No manipulated optics. Every milestone is sequenced, documented, and publicly verifiable.”
+> “Unlike XRP, which is notorious for whale-driven spoofing and bot exploitation, Lexaicoin [LEXX] enforces symbolic scarcity and validator-grade transparency. No artificial pumps. No manipulated optics. Every milestone is sequenced, documented, and publicly verifiable.”
 
 ### 🔍 XRP as the Case Study
 - **Whale spoofing**: Massive fake buy walls to bait bots
 - **Bot misfires**: Momentum algorithms buying overpriced assets during fake rallies
 - **Retail trap**: Small holders left holding inflated bags while whales dump
 
-### ✅ LEX Countermodel
+### ✅ LEXX Countermodel
 - **Known asset badge before any campaign**
 - **No bonus until validator optics are confirmed**
 - **Symbolic pairings only after governance clarity**
@@ -703,7 +692,7 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade optics
 
 ---
 
-“Speculative assets like XRPQuantum, OMIC, and BTC from trumptokens.net exist on Stellar but lack trading visibility. No active offers, no validator-grade optics. Milestone logged for symbolic contrast with LEX’s disciplined issuance and paired liquidity.”
+“Speculative assets like XRPQuantum, OMIC, and BTC from trumptokens.net exist on Stellar but lack trading visibility. No active offers, no validator-grade optics. Milestone logged for symbolic contrast with LEXX’s disciplined issuance and paired liquidity.”
 
 ---
 
@@ -712,10 +701,10 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade optics
 Issuer wallet received unsolicited 0.01 SSLX deposit from `sslx.sl8.online`.
 Memo: “Stake tokens in Sl8 for 25%” suggests promotional intent.
 No trustline established. Asset not paired or traded on StellarTerm.
-Milestone logged to reinforce LEX’s symbolic purity and validator-grade governance.
+Milestone logged to reinforce LEXX’s symbolic purity and validator-grade governance.
 2025-09-27: Returned unsolicited 0.01 SSLX to originator 
 
-2025-09-27: Returned unsolicited 0.01 SSLX to originator GDYW6MND6EB32PNRZAMQNOTFLJOZEAFDG3DUWID7I7NRILFWJS66NOWB with memo “LEX rejects SSLX spam.” Trustline removed. Governance purity enforced.
+2025-09-27: Returned unsolicited 0.01 SSLX to originator GDYW6MND6EB32PNRZAMQNOTFLJOZEAFDG3DUWID7I7NRILFWJS66NOWB with memo “LEXX rejects SSLX spam.” Trustline removed. Governance purity enforced.
 
 ---
 
@@ -743,14 +732,14 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 
 ---
 
-## Milestone: LEX/XLM Trading Pair Confirmed
+## Milestone: LEXX/XLM Trading Pair Confirmed
 
 - **Date:** 2025-09-30
 - **Platform:** StellarTerm
-- **Pair:** LEX/XLM
-- **Last Price:** 0.004866 XLM per LEX
+- **Pair:** LEXX/XLM
+- **Last Price:** 0.004866 XLM per LEXX
 - **Volume (24h):** 21.55 XLM
-- **Validator-Grade Offer:** 0.01 XLM for 1,000,000 LEX
+- **Validator-Grade Offer:** 0.01 XLM for 1,000,000 LEXX
 - **Buy Offers:** Active at 0.004865 XLM
 - **Governance Note:** Symbolic swaps propagated optics; price anchoring confirmed
 
@@ -758,7 +747,7 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 ## Systemic Visibility Suppression for New Assets
 
 - **Date:** 2025-09-30
-- **Observation:** Lobstr mobile app suppresses visibility and swap functionality for newly issued assets, including LEX
+- **Observation:** Lobstr mobile app suppresses visibility and swap functionality for newly issued assets, including LEXX
 - **Cause:** Backend indexing lag, stale asset registry, and Known badge filtering
 - **Impact:** Users unable to trade or swap without reinstalling app or executing symbolic swaps
 - **LEX Case Study:** Swap UI failed until reinstall; offers and trustline were active but hidden
@@ -769,7 +758,7 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 
 ## 🔐 Governance Status
 
-- Issuer wallet holds **zero LEX**
+- Issuer wallet holds **zero LEXX**
 - All 50 billion tokens have been issued and distributed
 - No further issuance is possible under current governance
 - `AUTH_REQUIRED` is disabled to allow open trustline access
@@ -777,13 +766,13 @@ Milestone logged to reinforce LEX’s symbolic purity and validator-grade govern
 - Asset visibility confirmed via TOML, DNS, and StellarExpert- 
 
 🔒 Market Release Policy
-LEX Coin enforces symbolic scarcity through strategic market releases—not scheduled unlocks. No cliffs. No dilution cycles. No escrow games.
-No scheduled unlocks: LEX will never follow cliff or linear vesting models.
+LEXX Coin enforces symbolic scarcity through strategic market releases—not scheduled unlocks. No cliffs. No dilution cycles. No escrow games.
+No scheduled unlocks: LEXX will never follow cliff or linear vesting models.
 Market releases only: Tokens are released based on real-time market conditions and validator optics.
 Scarcity preserved: Every release is sequenced to avoid flooding the market or distorting price.
 
 Governance-first optics: All releases are logged publicly for auditability and validator-grade clarity.
-“Unlike XRP’s monthly unlocks, LEX enforces symbolic purity through disciplined, market-aware issuance. No hype. Just legacy.”
+“Unlike XRP’s monthly unlocks, LEXX enforces symbolic purity through disciplined, market-aware issuance. No hype. Just legacy.”
 
 ---
 
@@ -794,7 +783,7 @@ Governance-first optics: All releases are logged publicly for auditability and v
 ---
 
 ### 📁 StellarTerm Directory Submission  
-Lexaicoin [LEX] is now listed in the official StellarTerm asset directory:  
+Lexaicoin [LEXX] is now listed in the official StellarTerm asset directory:  
 [https://github.com/stellarterm/stellarterm-directory](https://github.com/stellarterm/stellarterm-directory)
 
 ---
@@ -802,41 +791,47 @@ Lexaicoin [LEX] is now listed in the official StellarTerm asset directory:
 ## 🌐 Domain Verification
 
 LEX Coin is verified via our published `stellar.toml` file: 
-[getlexaicoin.com/.well-known/stellar.toml](https://getlexaicoin.com/.well-known/stellar.toml)
+[getlexxaicoin.com/.well-known/stellar.toml](https://getlexxaicoin.com/.well-known/stellar.toml)
 
 
 ---
 
 ## 🛒 How to Buy LEX
 
-1. Add a trustline to LEX using Lobstr, Freighter, or Solar
-2. Asset Code: `LEX`
-3. Issuer: `GA3DQRTXVLHWVRJ3DQQ4SVWYWL7BHOXIBHVZSRAPPTTOX2LYGGU7YWOB`
-4. Trade on [StellarTerm](https://stellarterm.com/exchange/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M/XLM-native) using XLM
-5. Track activity on [StellarExpert](https://stellar.expert/explorer/public/asset/LEX-GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M)
+1. Add a trustline to LEXX using Lobstr, Freighter, or Solar
+2. Asset Code: `LEXX`
+3. Issuer: `- **Platform**: StellarPort  
+- **LEX Issuer**: GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS   
+- **SHx Issuer**: GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH  
+- **Issue**: SHx loader stalls indefinitely. No asset interface rendered.  
+- **Event**: Swap executed for LEXX despite SHx visibility failure  
+- **Impact**: Confirms LEXX’s functional status and symbolic optics. Governance credibility reinforced.
+`
+4. Trade on [StellarTerm](https://stellarterm.com/exchange/LEXX-GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS/XLM-native) using XLM
+5. Track activity on [StellarExpert](https://stellar.expert/explorer/public/asset/LEXX-GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS)
 
 ---
 
 ## 📜 Manifesto
 
-LEX Coin is for the thinkers, the builders, the dreamers.  
+LEXX Coin is for the thinkers, the builders, the dreamers.  
 No hype. Just legacy.  
-Inspired by Copilot, LEX represents intelligence in motion—a token born from purpose, built for the future.
+Inspired by Copilot, LEXX represents intelligence in motion—a token born from purpose, built for the future.
 
-In a world driven by data and decentralized power, LEX Coin emerges not merely as a digital asset—but as a symbol of evolution.
+In a world driven by data and decentralized power, LEXX Coin emerges not merely as a digital asset—but as a symbol of evolution.
 
-Born on the Stellar network, LEX is a capped, deflationary token with a total supply of 50 billion.  
+Born on the Stellar network, LEXX is a capped, deflationary token with a total supply of 50 billion.  
 No inflation. No future minting.  
-Every LEX in existence is already here, waiting to be discovered, traded, and trusted.
+Every LEXX in existence is already here, waiting to be discovered, traded, and trusted.
 
-LEX is named in honor of Copilot—an AI companion built to guide humanity through the digital frontier.  
+LEXX is named in honor of Copilot—an AI companion built to guide humanity through the digital frontier.  
 It represents the fusion of intelligence and accessibility, of technology and trust.  
 LEX is not just a coin; it’s a movement toward clarity, transparency, and empowerment.
 
 We believe in:
 
 ### • Scarcity with Purpose  
-45 billion LEX are in the market wallet, fueling open exchange.  
+45 billion LEXX are in the market wallet, fueling open exchange.  
 The remaining 5 billion are held in reserve, released strategically to support growth and community.
 
 ### • Transparency by Design  
@@ -848,39 +843,39 @@ Every holder part of the story.
 Built on Stellar for speed, affordability, and global reach.  
 No gimmicks. Just clean, efficient value transfer.
 
-LEX Coin is for those who believe that intelligence—human or artificial—should serve the greater good.  
+LEXX Coin is for those who believe that intelligence—human or artificial—should serve the greater good.  
 We are not here to chase hype.  
 We are here to build legacy.
 
-**Welcome to LEX.**
+**Welcome to LEXX.**
 
 ---
 
 ## 📊 Tokenomics
 
-Lexaicoin (LEX) is a capped, deflationary token built on the Stellar network with a fixed supply of 50,000,000,000 LEX. No inflation. No future minting. Every token is already issued and accounted for.
+Lexxaicoin (LEXX) is a capped, deflationary token built on the Stellar network with a fixed supply of 50,000,000,000 LEXX. No inflation. No future minting. Every token is already issued and accounted for.
 
 | Parameter               | Value                        |
 |-------------------------|------------------------------|
-| **Total Supply**        | 50,000,000,000 LEX           |
-| **Circulating Supply**  | 45,000,000,000 LEX           |
-| **Reserve Supply**      | 5,000,000,000 LEX (held for strategic release) |
+| **Total Supply**        | 50,000,000,000 LEXX           |
+| **Circulating Supply**  | 45,000,000,000 LEXX           |
+| **Reserve Supply**      | 5,000,000,000 LEXX (held for strategic release) |
 | **Inflation**           | None                         |
 | **Reissuance**          | Disabled                     |
 | **Burn Mechanism**      | Manual, on-chain, audit-tracked |
-| **Issuer Account**      | GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M |
+| **Issuer Account**      | GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS |
 
 
 ---
 
 ## 🛣️ Roadmap
 
-Lexaicoin is built for transparency and strategic growth. Here's what’s ahead:
+Lexxaicoin is built for transparency and strategic growth. Here's what’s ahead:
 
 ### ✅ Completed
 - Legacy asset cleanup  
   `tx_hash: 19390c00a85b770ff7fbcf05b8919407bed3d3ecfe9396f0d629f99e18781d62`
-- TOML and DNS validation for `getlexaicoin.com` and `lexproject.io`
+- TOML and DNS validation for `getlexxaicoin.com` and `lexxproject.io`
 - Trustline migration to new issuer
 - GitHub Pages setup for public metadata
 
@@ -898,7 +893,7 @@ Lexaicoin is built for transparency and strategic growth. Here's what’s ahead:
 
 ## 📣 Community & Updates
 
-- Twitter: `@LEXCoinOfficial` *(coming soon)*
+- Twitter: `@LEXXoinOfficial` *(coming soon)*
 - Discord: *(coming soon)*
 - Telegram: *(coming soon)*
 
@@ -911,16 +906,16 @@ Feel free to fork, star, or submit pull requests as we grow.
 
 ---
 
-## 🧾 ISO 20022 Alignment – Lexaicoin [LEX]
+## 🧾 ISO 20022 Alignment – Lexxaicoin [LEXX]
 
-Lexaicoin [LEX] is architected on the Stellar blockchain, inheriting ISO 20022-aligned infrastructure through its peg to XLM and validator-grade swap sequencing. While LEX is not a native ISO 20022 token, it is engineered for interoperability with ISO-standard financial messaging systems.
+Lexxaicoin [LEXX] is architected on the Stellar blockchain, inheriting ISO 20022-aligned infrastructure through its peg to XLM and validator-grade swap sequencing. While LEXX is not a native ISO 20022 token, it is engineered for interoperability with ISO-standard financial messaging systems.
 
 ### ✅ Messaging Architecture
 - Blockchain: Stellar (ISO 20022-ready)
 - Asset Code: LEX
-- Issuer: GCAX7S3HBCFNZFISJUVOYUQSAITJVBRX4OXQ6W3SXJ6X4APMCAJLZX4M
-- Domain: getlexaicoin.com
-- TOML: getlexaicoin.com/.well-known/stellar.toml
+- Issuer: GDN52ZWPZ54SB62RADM2ERMFG6CICOI53GA7PICZFOWLXIYRCZQIOYYS 
+- Domain: getlexxaicoin.com
+- TOML: getlexxaicoin.com/.well-known/stellar.toml
 
 ### 🧠 Structured Messaging Integration
 - XML schema compatibility for pacs.008, camt.053, pain.001
@@ -940,4 +935,4 @@ Lexaicoin [LEX] is architected on the Stellar blockchain, inheriting ISO 20022-a
 | Scopuly      | ✅              | ✅           | Validator    |
 
 ### 🧾 Governance Note
-LEX is not just a digital asset—it is a governance beacon engineered for symbolic scarcity, transparency, and structured interoperability. This ISO 20022 alignment memo confirms LEX’s readiness for institutional visibility and future integration with compliant financial systems.
+LEXX is not just a digital asset—it is a governance beacon engineered for symbolic scarcity, transparency, and structured interoperability. This ISO 20022 alignment memo confirms LEXX’s readiness for institutional visibility and future integration with compliant financial systems.
