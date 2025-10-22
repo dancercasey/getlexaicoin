@@ -5,7 +5,7 @@
 
  ---
 
-![Lexxaicoin Symbol](https://raw.githubusercontent.com/dancercasey/getlexxaicoin/main/logo.png)
+ ![Lexxaicoin Symbol](https://raw.githubusercontent.com/dancercasey/getlexxaicoin/main/logo.png)
 
 
 ---
