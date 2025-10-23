@@ -90,6 +90,28 @@ Jake Claver channel followed LexXaicoin on Facebook. Optics penetration confirme
 
 ---
 
+LEX STANDS FOR ANIMAL WELFARE AND WE THE PEOPLE
+
+Governance Assertion - We assert that private property — including income derived from it — is protected from direct taxation under the U.S. Constitution. This protection is retained by the people via the Ninth Amendment, and enforced against all jurisdictions through the Supremacy Clause.
+
+⚖️ Case Law Chain
+Pollock v. Farmers’ Loan & Trust Co. (1895) Declared direct taxes on income from property unconstitutional without apportionment.
+
+Hylton v. United States (1796) First case to define “direct tax”; upheld carriage tax as indirect.
+
+Brushaber v. Union Pacific (1916) Upheld income tax under the Sixteenth Amendment — but did not erase Ninth Amendment protections.
+
+Eisner v. Macomber (1920) Reinforced that stock dividends are not taxable income — preserving property-based interpretation.
+
+Tyler v. Hennepin County (2023) Held that government cannot retain surplus equity from tax foreclosure — reaffirmed property rights.
+
+📜 Constitutional Anchors
+Ninth Amendment - The enumeration of the Constitution may not be used to disparage certain rights retained by the people.
+Supremacy Clause (Article VI) Federal constitutional protections override any conflicting state or local laws.
+Sixteenth Amendment Authorizes income tax without apportionment — but has never been challenged under the Ninth.
+
+---
+
 UPDATE ON SPOOF WALLETS
       LEXX was violated by 2 spoof wallets, through our own ignorance of the process, which has now been rectified, one absconded with 1,400,000 LEXX tokens, as of 10/20/2025, we have repurchased with bait offers 1,312,000, with our own XLM. We have bait traps set and will repurchase the remaining 88,000 as soon as possible.  They are affecting optics and pricing, but we have them surrounded and will erase the threat ASAP.
      The other spoof wallet containing 1,000,000 LEXX remains inactive, and we are watching them.
