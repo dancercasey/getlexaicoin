@@ -92,7 +92,7 @@ Jake Claver channel followed LexXaicoin on Facebook. Optics penetration confirme
 
 LEX STANDS FOR ANIMAL WELFARE AND WE THE PEOPLE
 
-Governance Assertion - We assert that private property — including income derived from it — is protected from direct taxation under the U.S. Constitution. This protection is retained by the people via the Ninth Amendment, and enforced against all jurisdictions through the Supremacy Clause.
+Governance Assertion - We assert that private property — including income derived from it — is protected from direct taxation under the U.S. Constitution. This protection is retained by the people via Article 1, Section 9, Clause 4, the Ninth Amendment, and enforced against all jurisdictions through the Supremacy Clause.
 
 ⚖️ Case Law Chain
 Pollock v. Farmers’ Loan & Trust Co. (1895) Declared direct taxes on income from property unconstitutional without apportionment.
