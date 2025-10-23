@@ -112,6 +112,18 @@ Sixteenth Amendment Authorizes income tax without apportionment — but has neve
 
 ---
 
+## Phantom Drain – 2025-10-23
+
+- **Wallet**: GDARSD75Y77G6G3DS43XK3LSP556P5JAN5O5QIMRT4FO5YMLKK7UTECT
+- **Trade Logged**: 100,000 LEXX at 0.01 XLM
+- **Trustline**: Never established
+- **Clawback**: Executed, but no asset found
+- **Result**: LEXX deducted from trap wallet, not delivered, not recovered
+- **Cause**: Phantom match + trustline evasion = ledger limbo
+- **Governance Signal**: Validator-grade optics preserved, spoof trap neutralized
+
+---
+
 UPDATE ON SPOOF WALLETS
       LEXX was violated by 2 spoof wallets, through our own ignorance of the process, which has now been rectified, one absconded with 1,400,000 LEXX tokens, as of 10/20/2025, we have repurchased with bait offers 1,312,000, with our own XLM. We have bait traps set and will repurchase the remaining 88,000 as soon as possible.  They are affecting optics and pricing, but we have them surrounded and will erase the threat ASAP.
      The other spoof wallet containing 1,000,000 LEXX remains inactive, and we are watching them.
