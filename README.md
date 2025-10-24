@@ -112,15 +112,76 @@ Sixteenth Amendment Authorizes income tax without apportionment — but has neve
 
 ---
 
-## Phantom Drain – 2025-10-23
+🧾 LEXX README: Clawback & Reissuance Protocol
+🛡️ Purpose
+LEXX enforces a validator-grade clawback and reissuance protocol to protect asset holders from spoof wallet siphons, swap trap scams, and symbolic hijacks. This policy anchors asset credibility, governance continuity, and Known badge ethics.
 
-- **Wallet**: GDARSD75Y77G6G3DS43XK3LSP556P5JAN5O5QIMRT4FO5YMLKK7UTECT
-- **Trade Logged**: 100,000 LEXX at 0.01 XLM
-- **Trustline**: Never established
-- **Clawback**: Executed, but no asset found
-- **Result**: LEXX deducted from trap wallet, not delivered, not recovered
-- **Cause**: Phantom match + trustline evasion = ledger limbo
-- **Governance Signal**: Validator-grade optics preserved, spoof trap neutralized
+🔐 Clawback Activation Criteria
+Clawback may be initiated if:
+
+A holder’s wallet is compromised via spoof swap or deep-link hijack
+
+Tokens are siphoned through impersonation or symbolic mimicry
+
+A platform incident results in unauthorized asset movement
+
+The holder provides timestamped evidence of fraud or hijack
+
+The wallet is verified as the original holder of the affected tokens
+
+🔁 Reissuance of Spoofed Assets
+If tokens are stolen through verified spoof vectors, the issuer will:
+
+Reissue the exact amount of LEXX tokens to the original verified wallet
+
+Log the incident and reissuance in the Known badge recovery charter
+
+Flag and blacklist the spoof wallet involved
+
+Update the optics memo with timestamped clawback details
+
+This ensures symbolic continuity and governance ethics are preserved across all asset surfaces.
+
+🧭 Clawback Process
+Holder submits a validator-grade incident report
+
+Include screenshots, timestamps, wallet logs
+
+Reference Known badge or optics memo if applicable
+
+Issuer reviews and validates the claim
+
+Verifies spoof vectors and asset flow
+
+Confirms symbolic continuity breach
+
+Clawback executed
+
+Tokens reissued to verified wallet
+
+Spoof wallet flagged and blacklisted
+
+Optics memo and Known badge charter updated
+
+🧬 Governance Anchors
+Clawback is ethics-driven, not discretionary
+
+All clawbacks are timestamped and documented
+
+Asset holders are protected under validator-grade optics protocols
+
+Symbolic continuity is preserved across TOML, README, and asset trackers
+
+🐾 Advocacy Alignment
+LEXX clawback and reissuance policy reflects its commitment to:
+
+Animal advocacy ethics
+
+Legacy protection for asset holders
+
+Transparent governance and optics restoration
+
+Known badge credibility and symbolic continuity
 
 ---
 
